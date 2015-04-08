@@ -1,29 +1,92 @@
 # Words 2015/04/01
 
 ###Venomous
+adj 1（蛇）等有毒的；2 恶毒的，充满仇恨的
 ###Venom
+n 1 毒液；2 恶毒，怨恨，恶意
 ###Fumigate
+v [VN] 烟熏，熏蒸
 ###Toxic
+adj 有毒的，引起中毒的
 ###Fugal [compare Prudent]
+adj 1 节俭的，节约的
+> a frugal existence/lift 俭朴的生活
+
+2 简单廉价的
+###Prudent
+adj 谨慎的，慎重的，精明的
+
 ###Homespun
+adj 1 （思想）朴素的，平常的；2 （布）家纺的
 ###Pristine
+adj 1 崭新的，清新的
+> The car is **in pristine condition**. 这辆车是全新的
+
+2 未开发的，处于原始状态的
 ###Paralysis
+n 麻痹，瘫痪
+> The strike caused total paralysis in the city.
+
 ###Oyster
-###Mould
+n 牡蛎
+###Mould/Mold
+n 1 模具，铸模
+> * A clay mold is used for casting bronze statues. 用黏土模具浇铸青铜塑像
+> * They **broke the mould** when they made you (= there is nobody like you) 你是世界上唯一的
+
+2 （独特）个性，风格
+> She doesn't fit (into) the traditional mould of an academic. 她不像一个传统的学者
+
 ###Molten
+adj 融化的
 ###Niche
+n 1 舒心或称心的工作（或生活）
+> He eventually found his niche in sports journalism.
+
+2 （产品的）商机，市场定位
+> * a niche market 有利可图的市场
+> * the development of niche marketing (= aiming products at particular groups)针对某群体的产品营销开发
+
 ###Nicotine
+n 尼古丁
 ###Maize
+n 玉米
 ###Yolk
+n 蛋黄
 ###Unify
+v 统一，使成一体
 ###Myriad
+n 无数，大量
+> * Desings are available in a myriad of colours.
 ###Falcon
+n 隼
 ###Hornbill
+n 犀鸟
 ###Impetus
+n 1 <span style="color:blue">~ (for sth) | ~ (to sth/ to do sth)</span>动力，推动，崔进，刺激
+> * to give (a) **new/fresh impetus** to sth 
+
+2 动量，惯性
 ###Propel
+v 1 推动，推进； 2 驱使，迫使，推搡
+> He was grabbed from behind and propelled through the door. 有人从后面抓住他，把他推过门去
+
 ###Contagious
+adj (接触）传染的
+> * (figurative) His enthusiam was contagious 他的热情富有感染力哦
+
 ###Propagate
+v 1 传播，宣传[VN]；2 （术语）繁殖，增殖
+> * Plants won't propagate in these conditions.
+
 ###Counterpart
+n 1 职位（或作用）相当的人；2 对应的事物
+
 ###Dietary
+adj 饮食的
+
 ###Residue
-###Cannibalism
+n 1 剩余物，残渣；2 剩余遗产
+
+###Cannibal
+n 1 食人肉者；2 同类相食的动物

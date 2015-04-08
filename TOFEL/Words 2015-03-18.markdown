@@ -88,7 +88,7 @@ adj 1 毛茸茸的；2 （食物）松软的
 ###Courtship
 n 求爱期，追求； 2 <span style="color:blue">~ (of sb/sth)</span> 招商
 
-##Bias
+###Bias
 n 偏见，偏心；偏爱
 v <span style="color:blue">~ sb/sth (towards/against/in favour of sb/sth)</span> 使有偏见，使偏心
 

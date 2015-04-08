@@ -4,10 +4,10 @@
 
 ###Overcast
 ###Staple
-
----
-
 ###Retentive
+
+--
+
 ###Artisan
 n 工匠，手艺人
 
