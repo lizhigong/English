@@ -107,25 +107,51 @@ n 粘液
 n 立体主义，立体派
 
 ###Inflate
-v 1 
+v 1 使充气，膨胀
+> * Inflate your life jacket by pulling sharply on the cord (细绳).
+
+2 鼓吹，吹捧
+3 （使）涨价
+> * The principal effect of the demand for new houses was to inflate prices.
+> * Food prices are no longer inflating at the same rate as last year.
 
 ###Inflation
+n 通货膨胀
 
 ###Flashy
+adj 1 （物品）俗艳的，显眼的
+2 （人）穿着奢华的
+3 炫耀技艺的
 
 ###Ablaze
+adj 1 猛烈燃烧
+> * Cars and buses were **set ablaze** during the riot.
+
+2 <span> ~ (with sth) </span> 闪耀，发光，明亮，色彩鲜艳
+> * The trees were ablaze with the colors of autumn.
+
+3 <span> ~ (with sth) </span> 充满激情的，情绪激动的
+> * He turned to her, his eyes ablaze with anger.
 
 ###Pliable
+adj 易弯曲的，柔韧的；（人）易受影响的
 
 ###Concave
+adj 凹的，凹面的
+> * a concave lens/mirror 凹透镜；凹镜
 
 ###Convex
+adj 凸的，凸面的
 
 ###Eviscerate
 v 切除内脏，切除...的内部器官
 > * After we eviscerate the fish we can start cooking it.
 
 ###Chronological
+adj 1 按发生时间顺序排列的
+> * The facts should be presented in chronological order.
+
+2 <span> ~ age </span> 按时间计算的年龄
 
 ###Chronology
 
