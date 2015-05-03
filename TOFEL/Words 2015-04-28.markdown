@@ -154,12 +154,24 @@ adj 1 按发生时间顺序排列的
 2 <span> ~ age </span> 按时间计算的年龄
 
 ###Chronology
+n 年表，按年代排列的顺序
 
 ###Drudgery
+n 苦差，单调乏味、繁重无聊的工作
 
 ###Deficit
+n 1 赤字，逆差，亏损
+> * a budget/trade deficit 预算赤字，贸易逆差
+
+2 不足额，缺少
+> * There's a deficit of $3 million in the total needed to complete the project.
 
 ###Excavation
+n 1（对古物的）发掘，挖掘
+2 [C, usually pl.] 发掘现场
+> * The excavations are open to the public. 发掘现场对公众开放
+
+2 挖掘，开凿，挖土
 
 ###Rampant
 adj 1（坏事）泛滥的，猖獗的
@@ -169,12 +181,26 @@ adj 1（坏事）泛滥的，猖獗的
 2 （植物）疯狂生长的
 
 ###Equestrian
+adj 马术的
+> * equestrian events at the Olympic Games.
 
 ###Spectrum
+n 1 谱，光谱
+2 声谱，波谱
+> * the electromagnetic/radio/sound spectrum. 电磁波谱；射频频谱；声谱
+
+3 [usually sing.] 范围，系列，幅度
+> * a broad spectrum of interests. 广泛的兴趣范围
 
 ###Monetary
+adj 货币的，钱的（尤指一国的金融）
+> * **monetary policy/growth** 货币政策/增长
 
 ###Crucial
+adj 至关重要的，关键性的
+> * a crucial factor/issue/decision 关键性的因素/问题/决定
 
 ###Culinary
+adj 烹饪的，食物的
+> * culinary skills. 烹饪技能
 
