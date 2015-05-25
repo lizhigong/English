@@ -215,6 +215,6 @@ adj 1 不透明的，不透光的，浑浊的
 ###Adobe
 n 黏土，黏土坯
 
-#Diverse
+###Diverse
 adj very different from **each other** 不同的，相异的，形形色色的
 > * My interests are very diverse.
