@@ -17,8 +17,14 @@
 ###Quota
 
 ###Circumscribe
+v [VN] 1 [often passive] 限制，约束 (自由、权力等)
+> * The power of the monarchy was circumscribed by the new law.
+
+2 画...的外接圆
 
 ###Propulsion
+n [U] 推动力，推进
+> * wind/steam/jet propulsion 风力/蒸汽/喷气推进
 
 ###Pronghorn
 
@@ -27,18 +33,39 @@
 ###Horticulture
 
 ###Rinse
+v [VN] 1 (用清水) 冲洗，冲刷
+> * Rinse the cooked pasta with boiling water.
+> * She rinsed the mud from her hands.
+> * I want to rinse the taste out of my mouth.
+
+2 冲掉，漂洗
 
 ###Enrage
 
 ###Peerless
 
 ###Reimburse
+v [VN] <span style="color:blue">~ sb (for sth)</span>
+偿还，补偿
+> * We will reimburse any expenses incurred.
+我们将付还所有相关费用
 
 ###Foment
+v [VN] [formal] 挑起，激起，煽动 (事端或暴力)
 
 ###Finch
 
 ###Permeate
+v [VN/V + adv./prep.]
+
+1 (液体、气体等) 渗透，弥漫，扩散 
+> * The smell of leather permeated the room. 屋子里弥漫着皮革的气味
+> * rainwater permeating through the ground.
+
+2 (思想、感情等) 感染，传播，扩散
+> * a belief that permeates all levels of society.
+> * Dissatisfaction among the managers soon permeated down to members of the workforce.
+管理人员的不满情绪很快传染给了全体职工
 
 ###Permeable
 
@@ -49,6 +76,8 @@
 ###Flavoring
 
 ###Preponderance
+n [sing.] 优势，多数，主体
+> * There is still a preponderance of male managers in the profession.
 
 ###Scavenger
 
@@ -68,7 +97,13 @@
 
 ###Harmonica
 
-###Gourmand / Gourmet
+###Gourmand
+n (often disapproving) a person who enjoys eating and eats a large amounts of food.
+
+###Gourmet
+n 美食家，讲究饮食的人
+adj (only before noun)
+> * gourmet food 美味佳肴
 
 ###Appraisal
 
