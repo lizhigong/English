@@ -94,6 +94,8 @@ n [sing.] 优势，多数，主体
 ###Weathering
 
 ###Kinetic
+adj [usually before noun] 运动的，运动引起的
+> * kinetic energy 动能
 
 ###Harmonica
 
