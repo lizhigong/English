@@ -29,7 +29,7 @@ adj 生殖的，繁殖的
 > * reproductive organs
 
 ###Replenish
-v [VN] <span>~ sth (with sth)</span> 补充，重新装满
+v [VN] <span style="color:blue">~ sth (with sth)</span> 补充，重新装满
 > * Allow me to replenish your glass. 让我再给您斟满
 
 ###Forestall
@@ -41,7 +41,7 @@ v [VN] 预示，是...的预兆
 > * His sudden death had been foreshadowed by earlier health scares.
 
 ###Rehearse
-v 1 <span>~ (for sth) | ~ (sb/sth)</span> 排练，排演 [VN/V]
+v 1 <span style="color:blue">~ (for sth) | ~ (sb/sth)</span> 排练，排演 [VN/V]
 > * We were given only two weeks to rehearse.
 > * Today, we'll just be rehearsing the final scene.
 
@@ -78,7 +78,7 @@ v [VN] 1 使变形，扭曲，使失真
 > * Newspapers are often guilty of distorting the truth.
 > * The article gave a distorted picture of his childhood.
 
-<span>Distortion</span>
+<span style="color:blue">Distortion</span>
 > * modern alloys that are resistant to wear and distortion 耐磨、防变形的新型合金
 > * a distortion of the facts 对事实的歪曲
 
@@ -93,7 +93,7 @@ n an illness that is not very serious.
 > * childhood/common/minor ailments. 儿童期/常见/轻微小病
 
 ###Imbalance
-n <span> ~ (between A and B) | ~ (in/of sth) </span>失衡，不公平
+n <span style="color:blue"> ~ (between A and B) | ~ (in/of sth) </span>失衡，不公平
 > * Attempts are being made to redress the imbalance between our import and export figures.
 我们正努力纠正进出口的不平衡
 
@@ -121,7 +121,7 @@ adj 易燃的，可燃的
 v [VN] 抗衡，抵消，对...起平衡作用
 > * Parents' natural desire to protect their children should be counterbalanced by the child's need for independence.
 
-n <span>~ (to sth)</span> 平衡抵消无，平衡重
+n <span style="color:blue">~ (to sth)</span> 平衡抵消无，平衡重
 > * The accused's right to silence was a vital counterbalance to the powers of the police.
 被告人的沉默权对警方的权利是一种至关重要的抗衡。
 
@@ -139,7 +139,7 @@ adj 盐的，含盐的，咸的
 > * Wash the lenses in saline solution.
 用盐溶液清洗镜片
 
-<span>Salinity</span> n 盐度
+<span style="color:blue">Salinity</span> n 盐度
 
 ###Evoke
 v [VN] 引起，唤起 (情感、记忆或形象)

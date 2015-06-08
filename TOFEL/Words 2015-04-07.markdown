@@ -32,7 +32,7 @@ adj 1 白热的，白炽的
 > * She was incandescent with anger. 她怒不可遏
 
 ###Irradiate
-v 1 照射； 2 <span>~ sth (with sth)</span> 使生辉，使焕发
+v 1 照射； 2 <span style="color:blue">~ sth (with sth)</span> 使生辉，使焕发
 > * faces irradiated with joy 一张张高兴得神采奕奕的面孔
 
 ###Deign

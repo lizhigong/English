@@ -92,7 +92,7 @@ n 1 被提名者，被任命者；2 （投资等的）名义持有人
 ###Twine
 n （两股或多股的）线，绳，麻绳
 
-v <span> ~ (sth) around/round/through/in sth</span> （使）盘绕，缠绕
+v <span style="color:blue"> ~ (sth) around/round/through/in sth</span> （使）盘绕，缠绕
 > * Ivy twining around a tree trunk.
 
 ###Penchant

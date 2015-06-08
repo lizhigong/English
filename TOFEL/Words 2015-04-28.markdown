@@ -70,7 +70,7 @@ adj 1 秃头的 2 无毛的 3 简单的，赤裸裸的
 > * The bald fact is that we don't need you any longer.
 
 ###Coax
-v <span> ~ sb (into doing sth) | ~ sb (into/out of sth) </span>
+v <span style="color:blue"> ~ sb (into doing sth) | ~ sb (into/out of sth) </span>
 哄劝，劝诱
 > * She coaxed the horse into coming a little closer.
 
@@ -91,7 +91,7 @@ n 雪崩，山崩
 我们在登出广告之后收到了雪片般飞来的答复信件
 
 ###Adept
-adj <span> ~ (at/in sth) | ~ (at/in doing sth) 内行的，熟练的，擅长的
+adj <span style="color:blue"> ~ (at/in sth) | ~ (at/in doing sth) 内行的，熟练的，擅长的
 
 ###Disintegrate
 v 1 碎裂，解体，分裂
@@ -127,10 +127,10 @@ adj 1 （物品）俗艳的，显眼的
 adj 1 猛烈燃烧
 > * Cars and buses were **set ablaze** during the riot.
 
-2 <span> ~ (with sth) </span> 闪耀，发光，明亮，色彩鲜艳
+2 <span style="color:blue"> ~ (with sth) </span> 闪耀，发光，明亮，色彩鲜艳
 > * The trees were ablaze with the colors of autumn.
 
-3 <span> ~ (with sth) </span> 充满激情的，情绪激动的
+3 <span style="color:blue"> ~ (with sth) </span> 充满激情的，情绪激动的
 > * He turned to her, his eyes ablaze with anger.
 
 ###Pliable
@@ -151,7 +151,7 @@ v 切除内脏，切除...的内部器官
 adj 1 按发生时间顺序排列的
 > * The facts should be presented in chronological order.
 
-2 <span> ~ age </span> 按时间计算的年龄
+2 <span style="color:blue"> ~ age </span> 按时间计算的年龄
 
 ###Chronology
 n 年表，按年代排列的顺序
