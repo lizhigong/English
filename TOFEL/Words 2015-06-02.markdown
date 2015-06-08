@@ -1,21 +1,35 @@
 #Words 2015-06-02
 
 ###Cassette
+n 磁带盒，盒式磁带
+> * a cassette recorder/player.
+> * available **on cassette** 已录制成磁带
 
 ###Yardstick
+n 1 码尺 2 (好坏或成败的)衡量标准，准绳
+> * a yardstick by which to measure sth 衡量某事物的标准
+> * Exam results are not the only yardstick of a school's performance.
 
 ###Pollination
+n 授粉
 
 ###Gyrate
+v 旋转，使(身体部位)转动
+> * They began gyrating to the music. [V]
+> * As the lead singer gyrated his hips, the crowd screamed wildly. 当主唱
 
 <span style="color:blue">Gyration</span>
 
 ###Pertinent
-adj. appropriate to a particular situation 恰当的，适宜的
-
+adj. <span style="color:blue">~ to sth</span> appropriate to a particular situation 恰当的，适宜的 SYN: relevant
+> * Please keep your comments pertinent to the topic under discussion.
+ 
 ###Tapeworm
+n 绦虫
 
 ###Viable
+n 1 切实可行的
+> * a viable option/proposition 
 
 ###Foghorn
 

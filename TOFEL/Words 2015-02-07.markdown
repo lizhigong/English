@@ -1,7 +1,5 @@
 # Words 2015/02/07
 
-标签（空格分隔）： English TOFEL
-
 ---
 Pitch
 Pitcher
@@ -11,32 +9,92 @@ Adorn / Adornment
 Scotch
 
 ---
-Menace
-Precarious
-Attire
-Garb
-Sheath
-Crustacean
-Caricature
-Satiric
-Feudal
-Depreciation
-Notorious
-Incessant
-Incense
-Ordeal
-Novice
-Scrap
-Hospitable
-Hail
-Astute
-Harness
-Edifice
-Demolish
-Spur
-Pungent
-~~Pique~~
-Syllable
-Mesmerize
-Seduce
-~~Vine~~
+### Menace
+n 1 [C, usually sing.] <span style="color:blue">~ (to sb/sth)</span> 威胁，危险的人/物 SYN : <span style="color:blue">threat</span>
+
+2 [U] 危险的气氛
+> * **a sense / an air / a hint of menace** in his voice 他话音里威胁的语气 / 腔调 / 意味
+
+v [VN] 对...构成危险；危及 SYN : <span style="color:blue">threaten</span>
+> * The forests are being menaced by major development projects. 大型开发项目正在威胁森林
+
+### Precarious
+adj 1 (情势)不稳定的，不确定的，不保险的，危险的
+> * The museum is in a financially precarious position. 这家博物馆的财政状况很不稳定
+
+2 摇摇欲坠的，不稳固的
+> * That ladder looks very precarious. 那梯子看起来摇摇晃晃
+> * The path down to the beach is very precarious in wet weather.
+通往海滨小路雨天非常湿滑危险
+
+### Attire
+n 礼服
+
+### Garb
+### Sheath
+n 1 (刀、剑等的)鞘， (工具的)套
+2 护层，护皮
+> * the sheath around an electric cable. 电线护皮
+
+### Crustacean
+n 甲壳纲动物 (如螃蟹、龙虾等)
+
+### Caricature
+n 1 [C]  (funny drawing of sb / sth)人物漫画
+
+2 [C] 夸张的描述
+> * He had unfairly presented a caricature of my views.
+
+3 [U] 漫画艺术
+
+v [VN, often passive] <span style="color:blue">~ sb/sth (as sth)</span> 
+把...画成漫画，滑稽地描述
+> * She was unfairly caricatured as a dumb blonde. 她被不公正地丑化成了一个傻头傻脑的金发女郎
+
+### Satirical / Satiric
+adj 讽刺的，讥讽的 using satire to criticize sb / sth.
+
+### Feudal
+adj [usually before noun] 封建制度的
+
+### Depreciate
+v 1 [V] 贬值，跌价
+> * New cars start to depreciate as soon as they are on the road.
+> * Shares continued to depreciate on the stock markets today.
+
+2 [VN]  (business) 折旧
+> * The bank depreciates PCs over a period of five years.
+这家银行把个人计算机分5年折旧
+
+3 [VN]  (formal) 贬低，轻视
+> * I had no intention of depreciating your contribution.
+我并不想贬低你的贡献
+
+<span style="color:blue">depreciation</span> n.
+> * currency depreciation 货币贬值
+> * the depreciation of fixed assets 固定资产折旧
+
+### Notorious
+adj <span style="color:blue">~ (for sth / for doing sth) | ~ (as sth)</span>
+声名狼藉的，臭名昭著的
+> * The country is notorious for its appalling (shocking; extremely bad) prison conditions.
+这个国家因监狱状况恶劣而臭名远扬
+
+### Incessant
+### Incense
+### Ordeal
+### Novice
+### Scrap
+### Hospitable
+### Hail
+### Astute
+### Harness
+### Edifice
+### Demolish
+### Spur
+### Pungent
+### Pique
+### Syllable
+### Mesmerize
+### Seduce
+### Vine
