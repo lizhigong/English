@@ -32,22 +32,50 @@ n 1 切实可行的
 > * a viable option/proposition 
 
 ###Foghorn
+n 雾角
 
 ###Magnetize
+v [VN] 1 [usually passive] 磁化，使有磁性
+
+2 吸引，迷住
+> * Cities have a powerful magnetizing effect on young people.
 
 ###Torque
+n 转矩
 
 ###Fluorescent
+adj 1 (物质) 发荧光的
+> * a fluorescent lamp 荧光灯
+
+2 (颜色，材料等) 强烈发光的，发亮的
+> * fluorescent armbands worn by cyclists. 骑车者戴的发亮臂章
 
 ###Renovate
+v [VN] 修复，翻新，重新粉刷 (房屋、家具等)
+
+<span sylte="color:blue">renovation</span> n [U, C usually sing.]
+> * buildings in need of renovation
+> * There will be extensive renovations to the hospital.
 
 ###Malfunction
+v [V]  (机器等) 运转失灵，出现故障
+n [C, U]
 
 ###Ultraviolet
+adj 紫外线的
+> * an ultraviolet lamp 紫外线灯
 
 ###Abrasive
+adj. 1 研磨的，有研磨作用的
+> * abrasive kitchen cleaners.
+
+2 生硬粗暴的，粗鲁的
+
+n 磨料
 
 ###Abrasion
+n 1 [C] 擦伤处，磨损处
+> * He suffered cuts and abrasions to the face.
 
 ###Sidestep
 v [VN] 1 回避，规避
@@ -57,26 +85,61 @@ v [VN] 1 回避，规避
 adj&adv. 侧面的
 
 ###Minuscule
+adj extremely small.
 
-###Monochromatic
+###Monochrome
+adj 1 (摄影等)黑白的
+> * monochrome illustrations / images 黑白插图/肖像
+> * (figurative) a dull monochrome life 枯燥单调的生活
 
-###Chromatic
+2 单色的
+<span style="color:blue">monochromatic</span> 
+> * a monochromatic colour scheme 单一色彩的调配
 
 ###Codify
 v [VN] 把...编成法典
 
 ###Symbiosis
+n 共生(关系)； 合作关系，互惠互利的关系
+
+<span style="color:blue">symbiotic</span> adj.
+> * a symbiotic relationship.
+
+<span style="color:blue">symbiotically</span> adv.
 
 ###Dehydrate
+v 1 [VN, usually passive] 使(食物)脱水
+
+2 [V/VN]  (身体)失水，脱水；使(身体)脱水
+> * Runners can dehydrate very quickly in this heat.
+
+<span style="color:blue">dehydration</span> n.
 
 ###Neon
+n 氖
+> * neon lights / signs 霓虹灯/霓虹灯广告
 
 ###Enzyme
+n 酶
 
 ###Conservatism
+n [U] 1 保守，守旧
+> * the innate conservatism of older people. 老年人固有的保守性
+
+2 保守主义
 
 ###Overlook
+v [VN] 1 忽略，未注意
+> * He seems to have overlooked one important fact.
 
+2 (对不良现象等) 不予理会 SYN : <span style="color:blue">turn a blind eye to</span>
+> * We could not afford to overlook such a serious offence.
+
+3 眺望，俯视
+
+4 <span style="color:blue">~ sb (for sth)</span> (提拔等时)对某人不予考虑
+SYN: <span style="color:blue">pass over</span>
+> * She's been overlooked for promotion several times.
 ###Substantiate
 
 ###Chromosphere

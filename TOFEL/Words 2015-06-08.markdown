@@ -1,6 +1,37 @@
 #Words 2015-06-05
 
 ###Outrage
+n 1 [U] 愤怒，愤慨 a strong feeling of shock and anger.
+> * The judge's remarks caused public outrage.
+裁判的话引起了公愤
+
+> * Environmentalists have expressed outrage at the ruling. 
+环保主义者对这一裁决表示愤慨
+
+2 [C] 暴行，骇人听闻的事
+> * No one has yet claimed responsibility for this latest bomb outrage.
+
+v [VN, often passive] 使震怒，激怒
+> * He was outraged at the way he had been treated.
+
+###Rage
+n 1 [U, C] 暴怒，狂怒
+> * His face was dark with rage. 他气得面色铁青
+> * to **be shaking / trembling / speechless with rage** 气愤地发抖 / 战栗 / 说不出话来
+> * He **flies into rage** if you even mention the subject. 只要你一提这个话题，他就会暴跳如雷
+
+2 [U]  (in compounds 构成复合词) (某情况引起的) 愤怒，暴力行为
+> * a case of trolley rage in the supermarket. 超市里由手推车引起的暴力事件
+
+v 1 <span style="color:blue">~ (at / against / about sb/sth)</span> 发怒，怒斥
+> * He raged against the injustice of it all. 
+
+2 [V] <span style="color:blue"> ~ (on) </span> 猛烈地继续，激烈进行
+> * The riots raged for three days. 暴乱持续了三天
+> * The blizzard was still raged outside. 暴风雪仍在肆虐
+
+3 [V, usually +adv./prep.]  (疾病，火焰等) 迅速蔓延，快速扩散
+> * A flu epidemic raged through Europe.
 
 ###Neutralize
 
