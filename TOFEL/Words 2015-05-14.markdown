@@ -1,47 +1,47 @@
 #Words 2015-05-14
 
 ###Mammoth
-n 猛犸
-adj 庞大的，巨大的
+n. 猛犸
+adj. 庞大的，巨大的
 > * a mammoth task 巨大的任务
 > * a financial crisis of mammoth proportions 极其严重的金融危机
 
 ###Cohesion
-n 黏合，结合，凝聚性
+n. 黏合，结合，凝聚性
 > * social/political/economic cohesion 社会/政治/经济凝聚性
 
 ###Cohesive
-adj 凝聚的，结合的，内聚的
+adj. 凝聚的，结合的，内聚的
 > * a cohesive group
 > * the cohesive power of shared suffering 共患难的凝聚力
 
 ###Mistrustful
-adj 不信任的
+adj. 不信任的
 
 ###Gorilla
-n 大猩猩
+n. 大猩猩
 
 ###Chimpanzee
-n 黑猩猩
+n. 黑猩猩
 
 ###Reproductive
-adj 生殖的，繁殖的
+adj. 生殖的，繁殖的
 > * reproductive organs
 
 ###Replenish
-v [VN] <span style="color:blue">~ sth (with sth)</span> 补充，重新装满
+v. [VN] <span style="color:blue">~ sth (with sth)</span> 补充，重新装满
 > * Allow me to replenish your glass. 让我再给您斟满
 
 ###Forestall
-v [VN] 预先阻止，先发制人
+v. [VN] 预先阻止，先发制人
 > * Try to anticipate what your child will do and forestall problems.
 
 ###Foreshadow
-v [VN] 预示，是...的预兆
+v. [VN] 预示，是...的预兆
 > * His sudden death had been foreshadowed by earlier health scares.
 
 ###Rehearse
-v 1 <span style="color:blue">~ (for sth) | ~ (sb/sth)</span> 排练，排演 [VN/V]
+v. 1 <span style="color:blue">~ (for sth) | ~ (sb/sth)</span> 排练，排演 [VN/V]
 > * We were given only two weeks to rehearse.
 > * Today, we'll just be rehearsing the final scene.
 
@@ -51,27 +51,27 @@ v 1 <span style="color:blue">~ (for sth) | ~ (sb/sth)</span> 排练，排演 [VN
 3 照搬，重复
 
 ###Deprivation
-n 缺乏，贫困，丧失，剥夺
+n. 缺乏，贫困，丧失，剥夺
 > * neglected children suffering from social deprivation 遭社会遗弃无人照管的孩子
 > * sleep deprivation 睡眠缺乏
 
 ###Dorsal
-adj (鱼或动物) 背部的，背上的，背侧的
+adj. (鱼或动物) 背部的，背上的，背侧的
 > * a shark's dorsal fin 鲨鱼的背鳍
 
 ###Humanitarian
-adj 人道主义的，慈善的
-n 人道主义者
+adj. 人道主义的，慈善的
+n. 人道主义者
 > * to provide **humanitarian aid** to the war zone 人道主义援助
 > * They are calling for the release of hostage on **humanitarian grounds**.
 他们站在人道主义的立场要求释放人质
 
 ###Humiliate
-v [VN] 羞辱，使丧失尊严
+v. [VN] 羞辱，使丧失尊严
 > * I didn't want to humiliate her in front of her colleagues.
 
 ###Distort
-v [VN] 1 使变形，扭曲，使失真
+v. [VN] 1 使变形，扭曲，使失真
 > * The loudspeaker seemed to distort his voice.
 
 2 歪曲，曲解
@@ -83,73 +83,73 @@ v [VN] 1 使变形，扭曲，使失真
 > * a distortion of the facts 对事实的歪曲
 
 ###Alchemy
-n 1 炼金术 2 魔力
+n. 1 炼金术 2 魔力
 
 ###Slothful
-adj (formal) 懒惰的
+adj. (formal) 懒惰的
 
 ###Ailment
-n an illness that is not very serious.
+n. an illness that is not very serious.
 > * childhood/common/minor ailments. 儿童期/常见/轻微小病
 
 ###Imbalance
-n <span style="color:blue"> ~ (between A and B) | ~ (in/of sth) </span>失衡，不公平
+n. <span style="color:blue"> ~ (between A and B) | ~ (in/of sth) </span>失衡，不公平
 > * Attempts are being made to redress the imbalance between our import and export figures.
 我们正努力纠正进出口的不平衡
 
 ###Sanitation
-n [U] 卫生设备，卫生设施体系
+n. [U] 卫生设备，卫生设施体系
 > * disease resulting from poor sanitation 卫生条件差导致的疾病
 
 ###Antiseptic
-n 抗菌剂，防腐剂
-adj 1 防腐的，抗菌的 able to prevent infection
+n. 抗菌剂，防腐剂
+adj. 1 防腐的，抗菌的 able to prevent infection
 > * antiseptic cream/lotion/wipes 抗菌乳膏/洗液/擦剂
 
 2 无菌的，消过毒的 very clean and free from bacteria
 > * Cover the burn with an antiseptic dressing.
 
 ###Fungus
-n (pl. fungi) 1 真菌 2 霉菌
+n. (pl. fungi) 1 真菌 2 霉菌
 > * fungus infections 霉菌感染
 
 ###Combustible
-adj 易燃的，可燃的
+adj. 易燃的，可燃的
 > * **combustible material/gases 易燃材料，气体
 
 ###Counterbalance
-v [VN] 抗衡，抵消，对...起平衡作用
+v. [VN] 抗衡，抵消，对...起平衡作用
 > * Parents' natural desire to protect their children should be counterbalanced by the child's need for independence.
 
-n <span style="color:blue">~ (to sth)</span> 平衡抵消无，平衡重
+n. <span style="color:blue">~ (to sth)</span> 平衡抵消无，平衡重
 > * The accused's right to silence was a vital counterbalance to the powers of the police.
 被告人的沉默权对警方的权利是一种至关重要的抗衡。
 
 ###Counterclockwise
-adj 逆时针的 = anticlockwise
+adj. 逆时针的 = anticlockwise
 
 ###Roe
-n [U,C] 鱼子
+n. [U,C] 鱼子
 
 ###Hatchery
-n 孵化处，孵化场
+n. 孵化处，孵化场
 
 ###Saline
-adj 盐的，含盐的，咸的
+adj. 盐的，含盐的，咸的
 > * Wash the lenses in saline solution.
 用盐溶液清洗镜片
 
 <span style="color:blue">Salinity</span> n 盐度
 
 ###Evoke
-v [VN] 引起，唤起 (情感、记忆或形象)
+v. [VN] 引起，唤起 (情感、记忆或形象)
 > * The music **evoked memories** of her youth.
 
 <span style="color:blue">Evocation</span> n
 > * a brilliant evocation of childhood in the 1940s. 对20世纪40年代童年美好回忆的唤起
 
 ###Secrete
-v [VN] 1 (身体或植物器官) 分泌
+v. [VN] 1 (身体或植物器官) 分泌
 > * Insulin is secreted by the pancreas. 胰岛素是胰腺分泌的
 
 2 <span style="color:blue">~ sth (in sth)</span> 藏匿，隐匿 (小物件)
@@ -157,7 +157,7 @@ v [VN] 1 (身体或植物器官) 分泌
 毒品藏在他的皮箱内衬中
 
 ###Sector
-n 1 部门，领域，行业
+n. 1 部门，领域，行业
 > * the manufacturing sector 制造业
 
 2 区域，地带 (尤指军事的)
@@ -166,7 +166,7 @@ n 1 部门，领域，行业
 3 扇形 (几何)
 
 ###Subdivision
-n 1 [U] 再分割，细分
+n. 1 [U] 再分割，细分
 
 2 分支，分部
 > * a police subdivision

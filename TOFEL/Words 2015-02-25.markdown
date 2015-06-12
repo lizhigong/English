@@ -18,23 +18,23 @@ adj. 公正的，不偏不倚的，中立的
 > * to give impartial advcie
 
 ##Emblem
-n （代表国家或组织的）徽章，标记，图案
+n. （代表国家或组织的）徽章，标记，图案
 
 ##Embroidery
-n [U,C]绣花，刺绣图案，刺绣品
+n. [U,C]绣花，刺绣图案，刺绣品
 
 ##Insulation
-n [U] 隔热，隔音，绝缘 （材料）
+n. [U] 隔热，隔音，绝缘 （材料）
 
 ##Segregate
 [VN] 隔离并区别对待（不同种族、宗教或性别的人）
 > a racially segregated community
 
 ##Congestion
-n [U] 拥塞，塞车；充血，淤血
+n. [U] 拥塞，塞车；充血，淤血
 
 ##Perplex
-v [usually passive] 使迷惑，迷惑
+v. [usually passive] 使迷惑，迷惑
 > They were perplexed by her response.
 
 ##
@@ -48,18 +48,18 @@ v [usually passive] 使迷惑，迷惑
 [VN] 使残废，使跛； 严重毁坏
 > The pilot tried to land his crippled plane.
 
-n （过时的说法，不礼貌的说法）残疾人，瘸子
+n. （过时的说法，不礼貌的说法）残疾人，瘸子
 
 ##Differentiate
-v 区别，辨别；差别对待，区别对待
+v. 区别，辨别；差别对待，区别对待
 
 ##Maverick
-n 持不同意见者；独行其是者
+n. 持不同意见者；独行其是者
 
 ##Perspiration / Perspire
-n / v 出汗，排汗； 汗珠 / 出汗
+n. / v 出汗，排汗； 汗珠 / 出汗
 
 ##Chaste
-adj （过时的）贞洁的，忠贞的；(formal)纯洁的，不含性意味的；(formal)（风格）简朴的，朴实的
+adj. （过时的）贞洁的，忠贞的；(formal)纯洁的，不含性意味的；(formal)（风格）简朴的，朴实的
 > the cool, chaste interior of the hall
 

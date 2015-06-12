@@ -51,17 +51,17 @@ bouquet [pronunciation]
 consternation
 quail [meanings]
 provincialism
-nostalgia
+n. stalgia
 typify
 
 ###Bolster
-v <span style="color:blue">~ sth (up)</span> 改善，加强
+v. <span style="color:blue">~ sth (up)</span> 改善，加强
 > to bloster sb's confidence/courage 增加某人的信心/勇气
 
-n 枕垫
+n. 枕垫
 
 ###Colossal
-adj 巨大的，庞大的
+adj. 巨大的，庞大的
 
 ###Conformity / conform
 

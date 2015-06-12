@@ -4,39 +4,39 @@
 
 ---
 ###Chop
-v (-pp-) <span style = "color:blue">~ sth(up)(into sth)</span> 切碎，剁碎，劈，砍
+v. (-pp-) <span style = "color:blue">~ sth(up)(into sth)</span> 切碎，剁碎，劈，砍
 <span style = "color:blue">~ sth<->down</span> 砍伐，伐倒（树木等）
 <span style = "color:blue">~ sth<->off</span> 砍掉，砍下
 <span style = "color:blue">~ (away) at sth</span> 对准。。。砍去
-n 1 [C] 猪（牛、羊）排，
+n. 1 [C] 猪（牛、羊）排，
 **a pork/lamb chop** 猪/羊排
  2 [C]砍，劈，剁； 掌劈
 
 ###Hatchet
-n 短柄小斧
+n. 短柄小斧
 
 ###Adjunct
-n 1 （语法）附加语，修饰成分； 2 附属物，附件
+n. 1 （语法）附加语，修饰成分； 2 附属物，附件
 
 ###Compulsory
-adj （因法律或规则）必须做的，强制的
+adj. （因法律或规则）必须做的，强制的
 > * compulsory subject 必修科目
 > * compulsory education/schooling 义务教育
 
 ###Gust
-n 1 一阵强风: a **gust of wind** blew his hat off.
+n. 1 一阵强风: a **gust of wind** blew his hat off.
 2 （感情的）迸发，爆炸: a **gust of laughter**.
-v （风）猛吹
+v. （风）猛吹
 
 ###Magnesium
-n 镁
+n. 镁
 
 ###Excel
-v 1 (-ll-) <span style = "color:blue">~ (in/at sth/at doing sth)</span> 擅长，突出
+v. 1 (-ll-) <span style = "color:blue">~ (in/at sth/at doing sth)</span> 擅长，突出
 2 <span style = "color:blue">~ yourself</span> 胜过平时
 
 ###Laurel
-n [U,C]月桂树; [pl.] 荣誉，荣耀
+n. [U,C]月桂树; [pl.] 荣誉，荣耀
 <span style = "color:blue">look to your laurels</span> 小心翼翼地保持成就/优势
 <span style = "color:blue">rest/sit on your laurels</span>  满足于既得成就；不思进取
 
@@ -47,38 +47,38 @@ n [U,C]月桂树; [pl.] 荣誉，荣耀
 <span style = "color:blue">~ (for sth) | ~ (to do sth)</span>志向，抱负
 
 ###Dilate
-v 扩大，（使）扩张，膨胀
+v. 扩大，（使）扩张，膨胀
 
 ###Dilute
 1 <span style = "color:blue">~ sth (with sth)</span> 稀释，冲淡
 2 削弱，降低效果
-adj (also diluted) 稀释了的，冲淡了的
+adj. (also diluted) 稀释了的，冲淡了的
 
 ###Sluggish
-adj 迟缓的，懒洋洋的
+adj. 迟缓的，懒洋洋的
 
 ###Tardy
-adj <span style = "color:blue">~ (in doing sth)</span>行动迟缓的，拖沓的；迟到的
+adj. <span style = "color:blue">~ (in doing sth)</span>行动迟缓的，拖沓的；迟到的
 
 ###Patrol 
-v 1 (-ll-) 巡逻，巡查[VN/V]；2 （尤指威胁性地）闲逛 
-n 1 [C,U]巡逻 a police car **on patrol**；2 巡逻队，巡逻车队
+v. 1 (-ll-) 巡逻，巡查[VN/V]；2 （尤指威胁性地）闲逛 
+n. 1 [C,U]巡逻 a police car **on patrol**；2 巡逻队，巡逻车队
 
 ###Itinerant
-adj 巡回的，流动的 itinerant wokers/musicians 流动工人，巡回乐师
-n 流浪者
+adj. 巡回的，流动的 itinerant wokers/musicians 流动工人，巡回乐师
+n. 流浪者
 
 ###Itinerary
-n 行程，旅行日程
+n. 行程，旅行日程
 
 ###Troupe
-n （演员、歌手等的）班子，表演团
+n. （演员、歌手等的）班子，表演团
 
 ###Narrator
-n 叙述者，旁白，幕后解说员
+n. 叙述者，旁白，幕后解说员
 
 ###Distil (Distill)
-v 1 <span style = "color:blue">~ sth(from sth)</span>蒸馏；用蒸馏法提取
+v. 1 <span style = "color:blue">~ sth(from sth)</span>蒸馏；用蒸馏法提取
 > to distil fresh water from sea water.
 
 2 <span style = "color:blue">~ sth(from/into sth)</span> 提炼，浓缩
@@ -93,23 +93,23 @@ v 1 <span style = "color:blue">~ sth(from sth)</span>蒸馏；用蒸馏法提取
 > a waterproof membrane 防水薄膜
 
 ###Shipwreck
-n 海难；沉船
+n. 海难；沉船
 
 ###Nucleus
-n 原子核，核； 细胞核；核心，中心
+n. 原子核，核； 细胞核；核心，中心
 
 ###Nuclei 
 pl. of nucleus
 
 ###Unfold
-v 1 （使）展开，打开； 2 展示，透露，（使）逐渐展现
+v. 1 （使）展开，打开； 2 展示，透露，（使）逐渐展现
 > The audience watched as **the story unfolded** before their eyes.
 
 ###Fir
-n 冷杉
+n. 冷杉
 
 ###Rift
-n 1 分裂，分歧，严重不和
+n. 1 分裂，分歧，严重不和
 > Efforts to **heal the rift** between the two contries have failed.
 
 2 断裂，裂缝，裂口
@@ -121,23 +121,23 @@ n 1 分裂，分歧，严重不和
 杨树
 
 ###Fireproof
-adj 防火的，耐火的
+adj. 防火的，耐火的
 
 ###Inanimate
-adj 1 无生命的； 2 死的，已死的
+adj. 1 无生命的； 2 死的，已死的
 
 ###Lethargy
-n 无精打采，没有热情，冷漠
+n. 无精打采，没有热情，冷漠
 
 ###Nocturnal
-adj 1（动物）夜间活动的； 2 夜间发生的
+adj. 1（动物）夜间活动的； 2 夜间发生的
 > a nocturnal visit 夜访
 
 ###Chagrin
-n 失望，恼怒，烦恼，懊恼
+n. 失望，恼怒，烦恼，懊恼
 ->adj. chagrined
 
 ###Charcoal
-n 木炭，炭
+n. 木炭，炭
 
 ###Stitch

@@ -5,57 +5,57 @@
 ---
 
 ###Auger
-n 木螺钻，螺旋钻（用于在木头上钻孔）
+n. 木螺钻，螺旋钻（用于在木头上钻孔）
 
 ###Cone
-n （实心或空心的）圆锥体，圆锥形物
+n. （实心或空心的）圆锥体，圆锥形物
 > Traffic cone 圆锥形的警告路标
 
 ###Oval
-adj 椭圆形的，卵形的
-n 椭圆形，卵形
+adj. 椭圆形的，卵形的
+n. 椭圆形，卵形
 
 ###Circumference
-n 圆周，圆周长
+n. 圆周，圆周长
 
 ###Archipelago
-n 群岛，列岛
+n. 群岛，列岛
 
 ###Thorn
-n 刺，荆棘
+n. 刺，荆棘
 > **a thorn in sb's flesh/side** 眼中钉，肉中刺
 
 ###Spine
-n 1. 脊柱，脊椎 SYN: backbone；2. （植物的）刺，（动物的）刺毛；3. 书脊
+n. 1. 脊柱，脊椎 SYN: backbone；2. （植物的）刺，（动物的）刺毛；3. 书脊
 ###Intricate
-adj 错综复杂的
+adj. 错综复杂的
 
 ###Percussion
-n 打击乐器，敲击乐器
+n. 打击乐器，敲击乐器
 > The track features Joey Langton on percussion. 唱片的这段乐曲是Joey Langton演奏的打击乐。
 
 Intersect / intersection
 Embed
 ###Etiquette
-n 礼节，礼仪，规矩
+n. 礼节，礼仪，规矩
 > medical/legal/professional etiquette 医学界的/法律界的/行业规矩
 
 ###Irreverent
-adj 不敬的，不恭的，失礼的
+adj. 不敬的，不恭的，失礼的
 
 ###Amenity
-n 生活福利设施，便利设施
+n. 生活福利设施，便利设施
 > Many of the houses lacked even **basic amenities**. （如热水，浴缸等）
 
 ###Reptile
-n 爬行动物
+n. 爬行动物
 -> reptilian 爬行动物的
 
 ###Shrub
-n 灌木
+n. 灌木
 
 ###Conifer
-n 针叶树
+n. 针叶树
 > Conifer trees/forests 针叶树/林
 
 

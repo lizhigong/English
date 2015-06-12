@@ -24,86 +24,86 @@ n
 
 ---
 ###Turnpike
-n 收费公路
+n. 收费公路
 ###Tray
-n 托盘，碟
+n. 托盘，碟
 ###Sect 
-n. (宗教)派系
+n.  (宗教)派系
 ###Reaf
-n 礁
+n. 礁
 ###Reed
-n 芦苇（丛）；簧舌
+n. 芦苇（丛）；簧舌
 ###Aloof
-adj 冷淡的，冷漠的
+adj. 冷淡的，冷漠的
 ###Bleak
-adj 阴冷的，前景黯淡的，没有希望的
+adj. 阴冷的，前景黯淡的，没有希望的
 ###Brittle
-adj 硬但易碎的，脆的；脆弱的；刺耳的（声音）
+adj. 硬但易碎的，脆的；脆弱的；刺耳的（声音）
 ###Trench
-n 战壕
+n. 战壕
 ###Moat
-n 护城河
+n. 护城河
 ###Kennel
-n 狗窝；养狗场(usually *kennels*)
+n. 狗窝；养狗场(usually *kennels*)
 ###Laborious
-adj 费力的，艰苦的
+adj. 费力的，艰苦的
 ###Laborer
-n 工人，劳动者
+n. 工人，劳动者
 ###Incongruous
-adj 不协调的 
-n incongruity 不协调，不一致
+adj. 不协调的 
+n. incongruity 不协调，不一致
 ###Stratum
-n 岩层，地层；（社会）阶层
+n. 岩层，地层；（社会）阶层
 ###Slimy
-adj 有粘液的；谄媚的，讨好的
+adj. 有粘液的；谄媚的，讨好的
 ###Turbulent
-adj 动荡的，混乱的；汹涌的，猛烈的
+adj. 动荡的，混乱的；汹涌的，猛烈的
 ###Emancipate
-v 解放，使不受束缚
-n Emancipation
+v. 解放，使不受束缚
+n. Emancipation
 ###Mime
-n 哑剧，默剧
-v 用哑剧形式表现 
+n. 哑剧，默剧
+v. 用哑剧形式表现 
 >* He mimed climbing a mountain.
 
 ###Enclosure
-n 围场；（信中的）附件（不是信）
+n. 围场；（信中的）附件（不是信）
 ###Evaporate
-v （使）蒸发，挥发；[V]（逐渐）消失，衰减
+v. （使）蒸发，挥发；[V]（逐渐）消失，衰减
 ###Dispersal
-n 分散，疏散 crowd dispersal 人群疏散
+n. 分散，疏散 crowd dispersal 人群疏散
 ###Discreet
-adj （言行）谨慎的，慎重的
+adj. （言行）谨慎的，慎重的
 ###Utilitarian
-adj 实用的，功利的
+adj. 实用的，功利的
 ###Plank
-n 木板 a plank of wood; (政党等的)政策准则，政纲核心
+n. 木板 a plank of wood; (政党等的)政策准则，政纲核心
 >* The **central plank** of the bill was rural development.
 
 ###Scaffolding
-n 脚手架
+n. 脚手架
 ###Ore
-n 矿石，矿砂
+n. 矿石，矿砂
 ###Renaissance
-n 文艺复兴
+n. 文艺复兴
 ###Silicate
-n 硅酸盐 aluminium silicate 硅酸铝
+n. 硅酸盐 aluminium silicate 硅酸铝
 ###Raft
-n 木排；橡皮艇
+n. 木排；橡皮艇
 ###From the outset (of sth)
 从开始
 ###onset
-n 开端，开始（尤指不快的事）
+n. 开端，开始（尤指不快的事）
 ###Inaugurate
-v 为（某人）举行就职典礼；为...举行落成仪式；开创
+v. 为（某人）举行就职典礼；为...举行落成仪式；开创
 >* He will be inaugurated (as) President in January.
 
 ###Transmit
-v 传播，传输；传染
+v. 传播，传输；传染
 ###Lament
-v 对...感到悲痛；痛惜；对...表示失望 [VN， V that, V speech]
+v. 对...感到悲痛；痛惜；对...表示失望 [VN， V that, V speech]
 
 ---
 ###Raze
-v 夷为平地
+v. 夷为平地
 >* The village was **razed to ground**.

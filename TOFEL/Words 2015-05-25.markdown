@@ -17,13 +17,13 @@
 ###Quota
 
 ###Circumscribe
-v [VN] 1 [often passive] 限制，约束 (自由、权力等)
+v. [VN] 1 [often passive] 限制，约束 (自由、权力等)
 > * The power of the monarchy was circumscribed by the new law.
 
 2 画...的外接圆
 
 ###Propulsion
-n [U] 推动力，推进
+n. [U] 推动力，推进
 > * wind/steam/jet propulsion 风力/蒸汽/喷气推进
 
 ###Pronghorn
@@ -33,7 +33,7 @@ n [U] 推动力，推进
 ###Horticulture
 
 ###Rinse
-v [VN] 1 (用清水) 冲洗，冲刷
+v. [VN] 1 (用清水) 冲洗，冲刷
 > * Rinse the cooked pasta with boiling water.
 > * She rinsed the mud from her hands.
 > * I want to rinse the taste out of my mouth.
@@ -45,18 +45,18 @@ v [VN] 1 (用清水) 冲洗，冲刷
 ###Peerless
 
 ###Reimburse
-v [VN] <span style="color:blue">~ sb (for sth)</span>
+v. [VN] <span style="color:blue">~ sb (for sth)</span>
 偿还，补偿
 > * We will reimburse any expenses incurred.
 我们将付还所有相关费用
 
 ###Foment
-v [VN] [formal] 挑起，激起，煽动 (事端或暴力)
+v. [VN] [formal] 挑起，激起，煽动 (事端或暴力)
 
 ###Finch
 
 ###Permeate
-v [VN/V + adv./prep.]
+v. [VN/V + adv./prep.]
 
 1 (液体、气体等) 渗透，弥漫，扩散 
 > * The smell of leather permeated the room. 屋子里弥漫着皮革的气味
@@ -76,7 +76,7 @@ v [VN/V + adv./prep.]
 ###Flavoring
 
 ###Preponderance
-n [sing.] 优势，多数，主体
+n. [sing.] 优势，多数，主体
 > * There is still a preponderance of male managers in the profession.
 
 ###Scavenger
@@ -94,17 +94,17 @@ n [sing.] 优势，多数，主体
 ###Weathering
 
 ###Kinetic
-adj [usually before noun] 运动的，运动引起的
+adj. [usually before noun] 运动的，运动引起的
 > * kinetic energy 动能
 
 ###Harmonica
 
 ###Gourmand
-n (often disapproving) a person who enjoys eating and eats a large amounts of food.
+n. (often disapproving) a person who enjoys eating and eats a large amounts of food.
 
 ###Gourmet
-n 美食家，讲究饮食的人
-adj (only before noun)
+n. 美食家，讲究饮食的人
+adj. (only before noun)
 > * gourmet food 美味佳肴
 
 ###Appraisal

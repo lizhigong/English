@@ -8,92 +8,92 @@
 
 ---
 ###Quilt
-n 被子
+n. 被子
 
 ###Quilter
-n 缝被子的人
+n. 缝被子的人
 
 ###Quiescent
 adj. 沉寂的，静态的
 
 ###Vie
-v <span style="color:blue">~(with sb)(for sth)</span> 激烈竞争；争夺
+v. <span style="color:blue">~(with sb)(for sth)</span> 激烈竞争；争夺
 
 ###Upheaval
-n 动荡，剧变，动乱 SYN: disruption
+n. 动荡，剧变，动乱 SYN: disruption
 
 ###Uproot 
-v 1 将...连根拔起； 2 <span style="color:blue">~ (yourself/sb)</span> 离开家园
+v. 1 将...连根拔起； 2 <span style="color:blue">~ (yourself/sb)</span> 离开家园
 
 ###Carver
 
 ###Affluent
-adj 富裕的
+adj. 富裕的
 
 ###Counterfeit
-adj 假冒的，仿造的
-v 伪造，造假
+adj. 假冒的，仿造的
+v. 伪造，造假
 
 ###Mimic
-v （尤指滑稽地）模仿
+v. （尤指滑稽地）模仿
 
 ###Clap
 v&n 拍，拍手
 
 ###Imbibe
-v 1 喝，饮（尤指酒）；2 吸收，接受（信息等）
+v. 1 喝，饮（尤指酒）；2 吸收，接受（信息等）
 
 ###Incorporate
-v 1 <span style="color:blue">~ sth (in/into/within sth)</span> 包含，将...包括在内；并入
+v. 1 <span style="color:blue">~ sth (in/into/within sth)</span> 包含，将...包括在内；并入
 2 注册成立[often passive] The company was incorporated in 2002.
 
 ###Enlightenment
-n [U]启迪，开发 spiritual enlightment 心灵启迪
+n. [U]启迪，开发 spiritual enlightment 心灵启迪
 
 ###Supple
-adj 1（身体）柔软的，灵活的，柔韧性好的；2 易弯曲的，柔韧的
+adj. 1（身体）柔软的，灵活的，柔韧性好的；2 易弯曲的，柔韧的
 
 ###Ferment
-v （使）发酵
-n （政治或社会上）动乱，骚动
+v. （使）发酵
+n. （政治或社会上）动乱，骚动
 ###Fermentation
-n 发酵
+n. 发酵
 
 ###Stunning
-adj 极有魅力的，绝妙的，令人印象深刻的；2 令人震惊的
+adj. 极有魅力的，绝妙的，令人印象深刻的；2 令人震惊的
 > He suffered a stunning defeat in the election.
 
 ###Idyllic
 adj. 完美无瑕的，和平美丽的
 
 ###Detest
-v 厌恶，憎恨
+v. 厌恶，憎恨
 
 ###Rust
-n 铁锈，锈
-v （使）生锈
+n. 铁锈，锈
+v. （使）生锈
 
 ###Besiege
-v 围困，包围
+v. 围困，包围
 
 ###Encompass
-v 包含，包括，涉及；2 包围，围住
+v. 包含，包括，涉及；2 包围，围住
 
 ###Encase
 <span style="color:blue">~ sth (in sth)</span> 把...装箱
 
 ###Fluffy
-adj 1 毛茸茸的；2 （食物）松软的
+adj. 1 毛茸茸的；2 （食物）松软的
 
 ###Courtship
-n 求爱期，追求； 2 <span style="color:blue">~ (of sb/sth)</span> 招商
+n. 求爱期，追求； 2 <span style="color:blue">~ (of sb/sth)</span> 招商
 
 ###Bias
-n 偏见，偏心；偏爱
-v <span style="color:blue">~ sb/sth (towards/against/in favour of sb/sth)</span> 使有偏见，使偏心
+n. 偏见，偏心；偏爱
+v. <span style="color:blue">~ sb/sth (towards/against/in favour of sb/sth)</span> 使有偏见，使偏心
 
 ###Lineage
-n 世系，宗系
+n. 世系，宗系
 
 ###Ethnic
-adj 民族的，种族的
+adj. 民族的，种族的

@@ -1,10 +1,10 @@
 #Words 2015-05-05
 
 ###Igneous
-adj (of rocks) 火山喷出的，火成的
+adj. (of rocks) 火山喷出的，火成的
 
 ###Offshore
-adj 海上的，近海的
+adj. 海上的，近海的
 > * offshore drilling 近海钻探
 > * an offshore island 近海岛屿
 
@@ -15,47 +15,47 @@ adj 海上的，近海的
 > * offshore investments
 
 ###Antedate
-v Precede in time, come before something in date. 
+v. Precede in time, come before something in date. 
 > * a civilization that antedated the Roman Empire.
 
 ###Deterrent
-n 威慑因素，遏制力
+n. 威慑因素，遏制力
 > * Hopefully his punishment will act as a deterrent to others.
 > * the country's **nuclear deterrents** 这个国家核武器的威慑力
 
 ###Iconography
-n The use or study of images or symbols in art. 图示法，象征手法，图像学
+n. The use or study of images or symbols in art. 图示法，象征手法，图像学
 
 ###Snack bar
-n 快餐柜台
+n. 快餐柜台
 
 ###Compile
-v [VN] 编写(书、报告、列表等)
+v. [VN] 编写(书、报告、列表等)
 > * We are trying to compile a list of suitable people for the job.
 
 ###Gravitational pull
-n 地心引力
+n. 地心引力
 
 ###Audit
-n [C,U] 1 审计
+n. [C,U] 1 审计
 > * an annual audit 年度审计
 > * a tax audit 税项审计
 2 (质量，标准的)审查，检查
 
-v [VN] 1 审计 2 旁听 (大学课程)
+v. [VN] 1 审计 2 旁听 (大学课程)
 
 ###Flair
-n [sing. U] 1 <span style="color:blue">~ for sth</span> 天资，天分，天赋
+n. [sing. U] 1 <span style="color:blue">~ for sth</span> 天资，天分，天赋
 > * He **has a flair for** languages.
 
 2 才华，资质
 > * artistic flair. 艺术魅力
 
 ###Exterminate
-v [VN] 灭绝，根除 SYN: <span style="color:blue">wipe out</span>
+v. [VN] 灭绝，根除 SYN: <span style="color:blue">wipe out</span>
 
 ###Communal
-adj 1 (尤指居住在一起的人)共享的，共有的
+adj. 1 (尤指居住在一起的人)共享的，共有的
 > * a **communal kitchen/garden, etc**. 共用的厨房，花园
 > * As a student he tried communal living for a few years.
 
@@ -63,48 +63,48 @@ adj 1 (尤指居住在一起的人)共享的，共有的
 > * communal violence between religious groups. 不同教派之间的暴力冲突
 
 ###Obliterate
-v [VN] 毁掉，覆盖，清除
+v. [VN] 毁掉，覆盖，清除
 > * The building was completely obliterated by the bomb.
 > * The snow had obliterated their footprint.
 > * Everything that happened that night was obliterated from his memory.
 
 ###Confluence
-n [usually sing.]  1 (technical) (河流的) 汇合处，交汇处
+n. [usually sing.]  1 (technical) (河流的) 汇合处，交汇处
 2 (事物的) 汇合，汇聚
 > * a confluence of social factors 多种社会因素的汇集
 
 ###Dissertation
-n 专题论文，学位论文
+n. 专题论文，学位论文
 
 ###Disseminate
-v [VN] 散布，传播 (知识，信息等)
+v. [VN] 散布，传播 (知识，信息等)
 > * Their findings have been widely disseminated. 他们的研究成果已经广为传播
 
 ###Porous
-adj 透气的，多孔的，透水的
+adj. 透气的，多孔的，透水的
 > * porous material/rocks/surfaces 渗透性材料/岩石/表面
 
 ###Pore
-n (皮肤上的)毛孔；植物的气孔；孔隙
+n. (皮肤上的)毛孔；植物的气孔；孔隙
 
-v <span style="color:blue">pore over sth</span> 仔细打量，审视，认真研读，审阅
+v. <span style="color:blue">pore over sth</span> 仔细打量，审视，认真研读，审阅
 > * His lawyers are poring over the small print in the contact. 
 
 ###Morale
-n 士气
+n. 士气
 > * to **boost/raise/improve morale** 鼓舞、提高士气
 
 ###Disproportionate
-adj 不成比例的，不相称的，太大或太小的
+adj. 不成比例的，不相称的，太大或太小的
 > * The area contains a disproportionate number of young middle-class families.
 
 ###Drastic
-adj 极端的，猛烈的，严厉的
+adj. 极端的，猛烈的，严厉的
 > * **drastic measures/changes** 严厉的措施，剧烈的变化
 > * The government is threatening to ** take drastic action** 政府警告说要采取严厉措施
 
 ###Trickle
-v 1 (usually +adv./prep.) (使)滴，淌，小股流淌 [V/VN]
+v. 1 (usually +adv./prep.) (使)滴，淌，小股流淌 [V/VN]
 > * Tears were trickling down her cheeks.
 > * Trickle some oil over the salad. 往沙拉上滴些油
 
@@ -112,11 +112,11 @@ v 1 (usually +adv./prep.) (使)滴，淌，小股流淌 [V/VN]
 > * People began trickling into the hall.
 > * New is starting trickling out.
 
-n 1 细流，涓流；2 <span style="color:blue">~ (of sth)</span>稀稀疏疏缓慢来往的东西
+n. 1 细流，涓流；2 <span style="color:blue">~ (of sth)</span>稀稀疏疏缓慢来往的东西
 > * a steady trickle of visitors. 三三两两络绎不绝的游客
 
 ###Trigger
-n 1 扳机
+n. 1 扳机
 > * to **pull/squeeze the trigger**
 
 2 <span style="color:blue">~ (for sth) | ~ (to sth/to do sth) </span> 诱因，起因
@@ -125,14 +125,14 @@ n 1 扳机
 3 触发器，引爆器
 > * nuclear triggers.
 
-v [VN] 1 <span style="color:blue">~ sth (off)</span> 发动，引起，触发
+v. [VN] 1 <span style="color:blue">~ sth (off)</span> 发动，引起，触发
 > * Nuts can trigger off a violent allergic reaction.
 
 2 开动，起动
 > * to trigger an alarm
 
 ###Cater
-v <span style="color:blue">~ (for sb/sth)</span> (为社交活动)提供饮食，承办酒席
+v. <span style="color:blue">~ (for sb/sth)</span> (为社交活动)提供饮食，承办酒席
 > * Most of our work now involves catering for weddings.
 
 <span style="color:blue">cater for sb/sth</span> 满足需要，适合
@@ -142,10 +142,10 @@ v <span style="color:blue">~ (for sb/sth)</span> (为社交活动)提供饮食�
 > * They only publish novels which cater to the mass-market.
 
 ###Catalyst
-n 催化剂
+n. 催化剂
 
 ###Floral
-adj 1 绘有花的，饰似花的
+adj. 1 绘有花的，饰似花的
 > * wallpaper with a **floral design/pattern** 有花卉图案的墙纸
 
 2 花的
@@ -153,32 +153,32 @@ adj 1 绘有花的，饰似花的
 > * **Floral tributes** were sent to the church. 敬献的花卉已送往教堂
 
 ###Flock
-n 1 <span style="color:blue">~ (of sth)</span> 群；2 一大群(同类人) 
+n. 1 <span style="color:blue">~ (of sth)</span> 群；2 一大群(同类人) 
 > * a flock of children/reporters.
 
 3 信众
 4 (填充垫子、椅子的)小块软填料
 > * flock wallpaper 植绒墙纸
 
-v 蜂拥，群集，聚集
+v. 蜂拥，群集，聚集
 > * Thousands of people flocked to the beach this weekend.
 
 ###Jolting
-adj 震动的，颠簸的
+adj. 震动的，颠簸的
 
 ###Embryonic
-adj 胚胎的，萌芽的，未成熟的
+adj. 胚胎的，萌芽的，未成熟的
 > * The plan, as yet, only exists in embryonic form.
 
 ###Surmount
-v 1 解决，克服 SYN: <span style="color:blue">overcome</span>
+v. 1 解决，克服 SYN: <span style="color:blue">overcome</span>
 > * She was well aware of the difficulties that had to be surmounted.
 
 2 处于...上面；置于...顶端
 > * a high column surmounted by a statue.
 
 ###Embody
-v [VN] 1 具体表现，体现，代表
+v. [VN] 1 具体表现，体现，代表
 > * the principles **embodied in** the Declaration of Human Rights.
 体现在人权宣言中的原则
 
@@ -186,7 +186,7 @@ v [VN] 1 具体表现，体现，代表
 > * This model embodies many new features.
 
 ###Infuse
-v 1 [VN] <span style="color:blue">~ A into B | ~ B with A</span> 使具有，注入(某种特性)
+v. 1 [VN] <span style="color:blue">~ A into B | ~ B with A</span> 使具有，注入(某种特性)
 > * Her novels are infused with sadness.
 她的小说充满哀伤
 
@@ -198,7 +198,7 @@ v 1 [VN] <span style="color:blue">~ A into B | ~ B with A</span> 使具有，注
 4 输入(药物等到静脉)
 
 ###Infusion
-n [C, U] 1 <span style="color:blue">~ of sth (into sth)</span> 注入，灌输
+n. [C, U] 1 <span style="color:blue">~ of sth (into sth)</span> 注入，灌输
 > * a cash infusion into the business. 对企业的现金注入
 
 2 沏成的饮料，泡制的草药
@@ -206,15 +206,15 @@ n [C, U] 1 <span style="color:blue">~ of sth (into sth)</span> 注入，灌输
 3 (药物等)输注；注入的药物
 
 ###Opaque
-adj 1 不透明的，不透光的，浑浊的
+adj. 1 不透明的，不透光的，浑浊的
 > * opaque glass
 
 2 难懂的，隐晦的，不清楚的
 > * The jargon in his talk was opaque to me.
 
 ###Adobe
-n 黏土，黏土坯
+n. 黏土，黏土坯
 
 ###Diverse
-adj very different from **each other** 不同的，相异的，形形色色的
+adj. very different from **each other** 不同的，相异的，形形色色的
 > * My interests are very diverse.

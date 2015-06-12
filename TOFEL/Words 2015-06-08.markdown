@@ -1,7 +1,7 @@
 #Words 2015-06-05
 
 ###Outrage
-n 1 [U] 愤怒，愤慨 a strong feeling of shock and anger.
+n. 1 [U] 愤怒，愤慨 a strong feeling of shock and anger.
 > * The judge's remarks caused public outrage.
 裁判的话引起了公愤
 
@@ -11,11 +11,11 @@ n 1 [U] 愤怒，愤慨 a strong feeling of shock and anger.
 2 [C] 暴行，骇人听闻的事
 > * No one has yet claimed responsibility for this latest bomb outrage.
 
-v [VN, often passive] 使震怒，激怒
+v. [VN, often passive] 使震怒，激怒
 > * He was outraged at the way he had been treated.
 
 ###Rage
-n 1 [U, C] 暴怒，狂怒
+n. 1 [U, C] 暴怒，狂怒
 > * His face was dark with rage. 他气得面色铁青
 > * to **be shaking / trembling / speechless with rage** 气愤地发抖 / 战栗 / 说不出话来
 > * He **flies into rage** if you even mention the subject. 只要你一提这个话题，他就会暴跳如雷
@@ -23,7 +23,7 @@ n 1 [U, C] 暴怒，狂怒
 2 [U]  (in compounds 构成复合词) (某情况引起的) 愤怒，暴力行为
 > * a case of trolley rage in the supermarket. 超市里由手推车引起的暴力事件
 
-v 1 <span style="color:blue">~ (at / against / about sb/sth)</span> 发怒，怒斥
+v. 1 <span style="color:blue">~ (at / against / about sb/sth)</span> 发怒，怒斥
 > * He raged against the injustice of it all. 
 
 2 [V] <span style="color:blue"> ~ (on) </span> 猛烈地继续，激烈进行
@@ -34,67 +34,163 @@ v 1 <span style="color:blue">~ (at / against / about sb/sth)</span> 发怒，怒
 > * A flu epidemic raged through Europe.
 
 ###Neutralize
+v. [VN] 1 使无效
+> * The latest figures should neutralize the fears of inflation.
+最新的数据应该可以消除通货膨胀的担忧。
 
-###Stash
+2 [化] 中和
+
+3 使中立
+
+<span>Neutralization, -isation</span> noun [U]
+
+###Stash (informal)
+v. [VN + adv./prep.] 存放，贮藏，隐藏 to store sth in a safe or secret place
+> * She has a fortune **stashed away** in various bank accounts.
+
+n. 贮藏物
+> * a stash of money 一笔存款
 
 ###Ambivalent
+adj. <span style="color:blue">~ (about/ towards sb/sth)</span> (喜忧参半、好坏参半等)矛盾情绪的
+> * She seems to feel ambivalent about her new job.
 
 ###Ambience (also Ambiance)
+n. [sing.] 环境，气氛，格调
+> * the relaxed ambience of the city
 
 ###Pesticide
+n. [C, U] 杀虫剂，除害药物
+> * vegetables grown without the use of pesticides.
 
 ###Audition
+n.  试演，试唱，试音
+
+v. 1 <span style="color:blue">~ (for sth)</span> 试演，试唱，试音
+> * She was auditioning for the role of Lady Macbeth.
+
+2 <span style="color:blue">~ sb (for sth)</span> 对某人面试，让某人试演
+> * We auditioned over 200 children for the part.
 
 ###Audible
+adj. 听得见的
+> * Her voice was **barely audible** above the noise.
 
 ###Prototypical
+adj. of prototype
 
 ###Protagonist
+n. 1 主角，主人公，主要人物
+
+2 (比赛、争斗中的) 主要人物，主要参与者
+
+3 (政策、运动的)倡导者，拥护者
+> * a leading protagonist of the conservation movement. 资源保护运动的急先锋
 
 ###Exhilarate
+v. 使高兴，使激动
+> * Speed had always exhilarated him.
 
 ###Exhilarating
+adj. 令人激动的，令人高兴的
+> * My first parachute jump was an exhilarating experience.
 
-###Marvelous
+###Marvelous / Marvellous
+adj. 极好的，非凡的
+> * **It's marvellous** waht modern technology can do.
 
 ###Trove = Treasure Trove
-n 1 [U, C, usually sing.] 无主财宝
+n. 1 [U, C, usually sing.] 无主财宝
 
 2 [C, usually sing.] 宝库，宝藏
 
-###Inextricably
+###Inextricable
+adj. 无法分开的，分不开的 too closely linked to be separated
+> * an inextricable connection between the past and the present.
 
-###Equilateral
+###Inextricably
+adv. 密不可分地
+> * Europe's foreign policy is inextricably linked with that of the US.
+
+###Equilateral triangle
+n. 等边三角形
 
 ###Projector
+n. 放映机，投影仪
 
 ###Infirmary
+n. 1 (常用与名称) 医院
+
+2 (学校、监狱等的) 医务室
 
 ###Comply
+v. <span style="color:blue">~ (with sth)</span> 遵从，服从，顺从
+> * They refused to comply with the UN resolution.
 
 ###Conservationist
+n. 自然环境保护主义者
 
 ###Eccentricity
+n. 1 [U] 古怪行为，反常
+> * As a teacher, she had a reputation for eccentricity. 
+
+2 [C, usually pl.] 古怪，怪癖
+> * We all have our little eccentricities. 我们都有一些小怪癖
 
 ###Unadorned
+adj. 不加装饰的，简朴的 SYN : <span style="color:blue">simple</span>
+> * The walls were plain and unadorned.
 
 ###Uncharted
+adj. [usually before noun] 1 人迹罕至的，无人涉足的，陌生的
+> * They set off into the country's uncharted interior.
+> * (figurative) The party is sailing in **uncharted waters**. 这个当面临一种崭新的局势
+> * (figurative) I was moving into **uncharted territory** with this relationship. 这个关系让我有一种全新的体验
 
 ###Fanaticism
+n. (尤指政治、宗教上的) 狂热，入迷
 
 ###Pathogen
+n. 病原体
 
-###Ward off
+###Ward
+n. 1 病房，病室
+> * a maternity/ surgical/ psychiatric/ children etc. ward 产科、外科、精神科、儿科等病房
+> * He works as a nurse **on the** children's **ward**. 他在儿科病房当护士
+
+2 受监护人 (受法院或监护人保护的人，尤指儿童) 
+> * The child was  mad a **ward of court**. 这个孩子由法院保护。
+
+v. <span style="color:blue">ward sb/sth <-> off</span> defend or protect yourself against danger, illness, attack, etc.
+> * to ward off criticism. 受到批评后为自己开脱
+> * She put up her hands to ward him off. 她举起双手把他挡开
 
 ###Sectional
+adj. [usually before noun]
+
+1 (社团或组织中)某群体的，某阶层的
+> * the sectional interests of managers and workers. 管理层和广大工人的不同利益。
+
+2 组合式的
+> * a sectional building 组合式建筑
+
+3 剖面的，断面的
+> * a sectional drawing 剖面图
 
 ###Photosynthesis
+n. [U] 光合作用
 
-###Upscale
+###Upscale / Upmarket
+adj. & adv 高档的，高级的
+> * an upmarket restaurant. 
 
 ###Conjectural
+adj. 推测的，猜测的
 
 ###Urbanite
+n. 城市居民
 
 ###Subsidy
-
+n. 补贴，补助金，津贴
+> * agricultural subsidies 农业补贴
+> * to reduce the level of subsidy. 

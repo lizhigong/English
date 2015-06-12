@@ -1,20 +1,20 @@
 #Words 2015-06-02
 
 ###Cassette
-n 磁带盒，盒式磁带
+n. 磁带盒，盒式磁带
 > * a cassette recorder/player.
 > * available **on cassette** 已录制成磁带
 
 ###Yardstick
-n 1 码尺 2 (好坏或成败的)衡量标准，准绳
+n. 1 码尺 2 (好坏或成败的)衡量标准，准绳
 > * a yardstick by which to measure sth 衡量某事物的标准
 > * Exam results are not the only yardstick of a school's performance.
 
 ###Pollination
-n 授粉
+n. 授粉
 
 ###Gyrate
-v 旋转，使(身体部位)转动
+v. 旋转，使(身体部位)转动
 > * They began gyrating to the music. [V]
 > * As the lead singer gyrated his hips, the crowd screamed wildly. 当主唱
 
@@ -25,44 +25,44 @@ adj. <span style="color:blue">~ to sth</span> appropriate to a particular situat
 > * Please keep your comments pertinent to the topic under discussion.
  
 ###Tapeworm
-n 绦虫
+n. 绦虫
 
 ###Viable
-n 1 切实可行的
+n. 1 切实可行的
 > * a viable option/proposition 
 
 ###Foghorn
-n 雾角
+n. 雾角
 
 ###Magnetize
-v [VN] 1 [usually passive] 磁化，使有磁性
+v. [VN] 1 [usually passive] 磁化，使有磁性
 
 2 吸引，迷住
 > * Cities have a powerful magnetizing effect on young people.
 
 ###Torque
-n 转矩
+n. 转矩
 
 ###Fluorescent
-adj 1 (物质) 发荧光的
+adj. 1 (物质) 发荧光的
 > * a fluorescent lamp 荧光灯
 
 2 (颜色，材料等) 强烈发光的，发亮的
 > * fluorescent armbands worn by cyclists. 骑车者戴的发亮臂章
 
 ###Renovate
-v [VN] 修复，翻新，重新粉刷 (房屋、家具等)
+v. [VN] 修复，翻新，重新粉刷 (房屋、家具等)
 
 <span sylte="color:blue">renovation</span> n [U, C usually sing.]
 > * buildings in need of renovation
 > * There will be extensive renovations to the hospital.
 
 ###Malfunction
-v [V]  (机器等) 运转失灵，出现故障
-n [C, U]
+v. [V]  (机器等) 运转失灵，出现故障
+n. [C, U]
 
 ###Ultraviolet
-adj 紫外线的
+adj. 紫外线的
 > * an ultraviolet lamp 紫外线灯
 
 ###Abrasive
@@ -71,24 +71,24 @@ adj. 1 研磨的，有研磨作用的
 
 2 生硬粗暴的，粗鲁的
 
-n 磨料
+n. 磨料
 
 ###Abrasion
-n 1 [C] 擦伤处，磨损处
+n. 1 [C] 擦伤处，磨损处
 > * He suffered cuts and abrasions to the face.
 
 ###Sidestep
-v [VN] 1 回避，规避
+v. [VN] 1 回避，规避
 2 横跨躲过，侧移闪过
 
 ###Sideways
 adj&adv. 侧面的
 
 ###Minuscule
-adj extremely small.
+adj. extremely small.
 
 ###Monochrome
-adj 1 (摄影等)黑白的
+adj. 1 (摄影等)黑白的
 > * monochrome illustrations / images 黑白插图/肖像
 > * (figurative) a dull monochrome life 枯燥单调的生活
 
@@ -97,10 +97,10 @@ adj 1 (摄影等)黑白的
 > * a monochromatic colour scheme 单一色彩的调配
 
 ###Codify
-v [VN] 把...编成法典
+v. [VN] 把...编成法典
 
 ###Symbiosis
-n 共生(关系)； 合作关系，互惠互利的关系
+n. 共生(关系)； 合作关系，互惠互利的关系
 
 <span style="color:blue">symbiotic</span> adj.
 > * a symbiotic relationship.
@@ -108,7 +108,7 @@ n 共生(关系)； 合作关系，互惠互利的关系
 <span style="color:blue">symbiotically</span> adv.
 
 ###Dehydrate
-v 1 [VN, usually passive] 使(食物)脱水
+v. 1 [VN, usually passive] 使(食物)脱水
 
 2 [V/VN]  (身体)失水，脱水；使(身体)脱水
 > * Runners can dehydrate very quickly in this heat.
@@ -116,20 +116,20 @@ v 1 [VN, usually passive] 使(食物)脱水
 <span style="color:blue">dehydration</span> n.
 
 ###Neon
-n 氖
+n. 氖
 > * neon lights / signs 霓虹灯/霓虹灯广告
 
 ###Enzyme
-n 酶
+n. 酶
 
 ###Conservatism
-n [U] 1 保守，守旧
+n. [U] 1 保守，守旧
 > * the innate conservatism of older people. 老年人固有的保守性
 
 2 保守主义
 
 ###Overlook
-v [VN] 1 忽略，未注意
+v. [VN] 1 忽略，未注意
 > * He seems to have overlooked one important fact.
 
 2 (对不良现象等) 不予理会 SYN : <span style="color:blue">turn a blind eye to</span>
@@ -140,23 +140,38 @@ v [VN] 1 忽略，未注意
 4 <span style="color:blue">~ sb (for sth)</span> (提拔等时)对某人不予考虑
 SYN: <span style="color:blue">pass over</span>
 > * She's been overlooked for promotion several times.
+
 ###Substantiate
+v. [VN] 证实，证明
+> * The results of the tests substantiated his claims.
+
+<span style="color:blue">Substantiation</span> n [U]
 
 ###Chromosphere
+n. 色球层
 
 ###Photosphere
+n. 光球层
 
 ###Calibration
+n. 1 [U] 标定，校准
 
-###Overtire
+2 (温度计或其他仪表上的) 刻度
 
-###Paycheck
+###Overtired
+adj. 劳累过度(而烦躁)的 extremely tired, so that you become irritated easily.
+
+###Paycheck / Pay cheque
+n. 1 工资支票
+
+2 进账，收入
+> * a huge paycheck 巨额收入
 
 ###Chilli
-n 辣椒
+n. 辣椒
 
 ###Chill
-n 1 [sing.] 寒冷，凉意
+n. 1 [sing.] 寒冷，凉意
 > * A small fire was burning to **take the chill off** the room.
 
 2 [C] 着凉，受寒
@@ -164,7 +179,7 @@ n 1 [sing.] 寒冷，凉意
 > * a **chill of fear/apprehension** 一阵害怕/恐惧
 > * His words **sent a chill down her spine**. 他的话让她毛骨悚然
 
-v 1 [VN] 使很冷，使冰冷
+v. 1 [VN] 使很冷，使冰冷
 > * Let's go home, I'm **chilled to the bone**.
 
 2 [V/VN] 冷却，(使)冷藏
@@ -179,7 +194,7 @@ adj. (尤指天气和风) 寒冷的，冷飕飕的
 > * the chill grey dawn.
 
 ###Pack down
-v 填塞，夯实
+v. 填塞，夯实
 > * I have to pack down my clothes so I can close my suitcase.
 
 

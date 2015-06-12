@@ -3,58 +3,58 @@
 标签（空格分隔）： English TOFEL
 
 ###Gazette
-n 1 （某一组织的）公报；　２ Gazette （用于报刊名）报纸
+n. 1 （某一组织的）公报；　２ Gazette （用于报刊名）报纸
 > the Evening Gazette
 
 ###Stanza
-n （诗的）节，段
+n. （诗的）节，段
 
 ###Hinge
-n 合叶，铰链 v 给...装铰链
+n. 合叶，铰链 v 给...装铰链
 **PHR V hinge on/upon sth**  取决于，有赖于
 
 ###Displacement
-n 1 取代，替代，移位，免职 2 （物理）排水量
+n. 1 取代，替代，移位，免职 2 （物理）排水量
 
 ###Aquamarine
-n 海蓝宝石 2 (also adj.) 浅蓝色，海蓝色
+n. 海蓝宝石 2 (also adj.) 浅蓝色，海蓝色
 
 ###Census
-n 人口普查
+n. 人口普查
 
 ###Dye （dyes, dyeing, dyed, dyed)
-v 给...染色 [VN + adj.] She dyed her hair blonde.
-n 染料，染液 hair dye 染发液
+v. 给...染色 [VN + adj.] She dyed her hair blonde.
+n. 染料，染液 hair dye 染发液
 
 ###Taint
 v&n 污染，腐坏，玷污
 
 ###Trait
-n （人的个性的）特征，特点，特性 personality traits 个性特点
+n. （人的个性的）特征，特点，特性 personality traits 个性特点
 
 ###Squirrel
-n 松鼠
-v **Squirrel sth <-> away** 储藏，存储
+n. 松鼠
+v. **Squirrel sth <-> away** 储藏，存储
 > She had money squirrelled away in various bank accounts.
 
 ###Hustle
-v 1 [VN + adv./prep.]推搡，猛推
+v. 1 [VN + adv./prep.]推搡，猛推
 > He grabbed her arm and hustled her out of the room.
 
 2 ~ sb (into sth) 催促某人
-n 忙碌喧嚣
+n. 忙碌喧嚣
 > We escaped from the hustle and bustle of the city for the weekend.
 
 ###Anomaly
-n 异常事物，反常现象
+n. 异常事物，反常现象
 
 ###Canopy
-n 1 (床、座位等上面的)罩蓬，遮篷
+n. 1 (床、座位等上面的)罩蓬，遮篷
 2 顶篷，天篷；（尤指森林里的）天篷似的树荫
 3 （飞机的）座舱盖
 
 ###Invade
-v 1 侵略，侵犯，侵袭； 2 侵扰，干扰
+v. 1 侵略，侵犯，侵袭； 2 侵扰，干扰
 > Do the press have the right to **invade her privacy** in this way?
 
 ###Soluble
@@ -66,7 +66,7 @@ adj. ~ (to sth/to doing sth) | ~ (to do sth) 更合适，更可取
 > He finds country life infinitely preferable to living in the city.
 
 ###Senator
-n 参议员
+n. 参议员
 
 ###Agenda
-n （会议的）议程表，议事日程
+n. （会议的）议程表，议事日程

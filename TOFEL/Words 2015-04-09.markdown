@@ -3,18 +3,18 @@ Words 2015/04/09
 --
 
 ###Slum
-n 贫民窟
+n. 贫民窟
 
 ###Preside
-v [V] <span style="color:blue">~ (at/over sth)</span> 主持（会议、仪式等）
+v. [V] <span style="color:blue">~ (at/over sth)</span> 主持（会议、仪式等）
 >* the presiding judge 首席法官
 >* The asked if I would preside at the committee meeting.
 
 ###Deciduous
-adj （树木）落叶的 反义词：<span style="color:blue">evergreen</span>
+adj. （树木）落叶的 反义词：<span style="color:blue">evergreen</span>
 
 ###Confession
-n 认罪，坦白；（对羞愧或尴尬的事）承认；（宗教）告罪，告解
+n. 认罪，坦白；（对羞愧或尴尬的事）承认；（宗教）告罪，告解
 
 ###Sanitary
 adj. 1 环境卫生的，公共卫生的
@@ -24,80 +24,80 @@ adj. 1 环境卫生的，公共卫生的
 2 清洁的，卫生的
 
 ###Mitigate
-v 减轻，缓和
+v. 减轻，缓和
 
 ###Topography
-n 地形，地貌，地形学
+n. 地形，地貌，地形学
 
 ###Insurmountable
-adj （困难，问题等）无法克服的，不可逾越的，难以解决的 SYN:<span style="color:blue">Insuperable</span>
+adj. （困难，问题等）无法克服的，不可逾越的，难以解决的 SYN:<span style="color:blue">Insuperable</span>
 
 ###Unspoiled
-adj 1 （地方）未遭破坏的；2 （人）未被宠坏的
+adj. 1 （地方）未遭破坏的；2 （人）未被宠坏的
 
 ###Petal
-n 花瓣
+n. 花瓣
 
 ###Lampshade
-n 灯罩
+n. 灯罩
 
 ###To and fro
 adv 来回地，往复地
 
 ###Microcosm
-n 缩影
+n. 缩影
 > * The family is a microcosm of society.
 
 ###Confederacy
-n 联邦，同盟
+n. 联邦，同盟
 
 ###Escalate
-v <span style="color:blue">~ (sth) (into sth)</span> （使）逐步扩大，不断恶化，加剧
+v. <span style="color:blue">~ (sth) (into sth)</span> （使）逐步扩大，不断恶化，加剧
 
 ###Crude oil
-n 原油
+n. 原油
 
 ###Compensatory
-adj 补偿的
+adj. 补偿的
 
 ###Chubby
-adj 丰满的，圆胖的
+adj. 丰满的，圆胖的
 
 ###Eventful
-adj 多事故的，多变故的
+adj. 多事故的，多变故的
 > * an eventful day/life/journey 不平凡的一天；多姿多彩的一生/旅程
 
 ###Imprint
-v <span style="color:blue">~ A in/on B | ~ B with A</span> 1 产生重大影响，铭刻，使铭记
+v. <span style="color:blue">~ A in/on B | ~ B with A</span> 1 产生重大影响，铭刻，使铭记
 > * The terrible scenes were indelibly imprinted on his mind.
 
 2 印，压印
 > * Clothes imprinted with the logos of sports teams.
 
-n 1 <span style="color:blue">~ （of sth)(in/on sth)</span> 印记，压印，痕迹
+n. 1 <span style="color:blue">~ （of sth)(in/on sth)</span> 印记，压印，痕迹
 
 2 [usually sing.] <span style="color:blue">~ (of sth)(on sb/sth)</span> 持久影响
 
 3 出版商名称
 
 ###Coalesce
-v <span style="color:blue">~ (into/with sth)</span> 合并，联合，结合
+v. <span style="color:blue">~ (into/with sth)</span> 合并，联合，结合
 > * The puddles had coalesced into a small stream. 水洼；里的水汇流成了一条小溪
  
 ###Decimal
-adj 十进制的，小数的
+adj. 十进制的，小数的
 
 ###Antibiotic
-n 抗生素
+n. 抗生素
 
-adj 抗菌的
+adj. 抗菌的
 
 ###Surpass
-v 超过，胜过，优于
+v. 超过，胜过，优于
 
 ###Amenable
-adj <span style="color:blue">~ (to sth)</span> 顺从的，顺服的
+adj. <span style="color:blue">~ (to sth)</span> 顺从的，顺服的
 
 ###Interstellar
-adj [only before noun] 星际的
+adj. [only before noun] 星际的
 

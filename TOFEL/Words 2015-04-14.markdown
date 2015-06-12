@@ -1,10 +1,10 @@
 #Words 2015/04/14
 
 ###Combustion
-n 燃烧
+n. 燃烧
 
 ###Indiscriminate
-adj 1 随意的，放肆的；
+adj. 1 随意的，放肆的；
 > * indiscriminate attacks on motorists by youths throwing stones.
 年轻人乱扔石头袭击驾车的人
 
@@ -12,26 +12,26 @@ adj 1 随意的，放肆的；
 > * She's always been indiscriminate in her choice of friends.
 
 ###Stringent
-adj 严格的，严厉的；2 紧缩的，短缺的，银根紧的
+adj. 严格的，严厉的；2 紧缩的，短缺的，银根紧的
 
 ###Encyclopedia
-n 百科全书
+n. 百科全书
 
 ###Tentacle
-n 触手，触角，触须
+n. 触手，触角，触须
 > * Tentacles of fear closed around her body. 恐惧的阴影笼罩着她
 
 ###Patroller
-n 巡逻员
+n. 巡逻员
 
 ###Rayon
-n 人造丝，人造制品
+n. 人造丝，人造制品
 
 ###Concerto
-n 协奏曲
+n. 协奏曲
 
 ###Condense
-v <span style="color:blue"> ~ (sth) (into sth)</span>
+v. <span style="color:blue"> ~ (sth) (into sth)</span>
 （由气体）冷凝；（使气体）凝结
 > * Steam condenses into water when it cools.
 
@@ -42,17 +42,17 @@ v <span style="color:blue"> ~ (sth) (into sth)</span>
 > * The article was condensed into just two pages.
 
 ###Vaporize
-v （使）气化，蒸发
+v. （使）气化，蒸发
 
 ###Ignite
-v （使）燃烧，着火，点燃
+v. （使）燃烧，着火，点燃
 > * Gas ignites very easily
 
 ###Heyday
-n 最为强大的时期，繁荣时期，兴盛时期
+n. 最为强大的时期，繁荣时期，兴盛时期
 
 ###Renewal
-n 1 <span style="color:blue">~ of sth</span>
+n. 1 <span style="color:blue">~ of sth</span>
 恢复，更新，重新开始
 > * a renewal of interest in traditional teaching methods
 
@@ -64,61 +64,61 @@ n 1 <span style="color:blue">~ of sth</span>
 > * economic renewal 经济复兴
 
 ###Divergent
-adj derivative of diverge
+adj. derivative of diverge
 
 ###Prospect
 
 
 ###Pollinate
-v 授粉，传粉
+v. 授粉，传粉
 
 ###Interlock
-v <span style="color:blue">~ (sth) (with sb)</span>
+v. <span style="color:blue">~ (sth) (with sb)</span>
 （使）连锁，紧密相连
 
 ###Discernible
-adj 可识别的，可分辨的
+adj. 可识别的，可分辨的
 
 ###Notate
-v 象征，符号化
+v. 象征，符号化
 
 ###Torrential
-adj （雨）倾泻的，如柱的
+adj. （雨）倾泻的，如柱的
 
 ###Frivolity
-n 愚蠢的行为，轻浮的举止，可笑的表现
+n. 愚蠢的行为，轻浮的举止，可笑的表现
 
 ###Preeminent
-adj 杰出的，卓越的
+adj. 杰出的，卓越的
 
 ###Hygiene
-n 卫生
+n. 卫生
 > * food hygiene 食品卫生
 
 ###Silversmith
-n 银匠
+n. 银匠
 
 ###Individualism
-n 1 个性，独特的气质；2 个人主义
+n. 1 个性，独特的气质；2 个人主义
 
 ###Insulin
-n 胰岛素
+n. 胰岛素
 
 ###Interdependent
-adj 互相依赖的
+adj. 互相依赖的
 
 ###Melleable
-adj 可锻造的，可轧压的；（人、思想）可塑的，易受影响的
+adj. 可锻造的，可轧压的；（人、思想）可塑的，易受影响的
 
 ###Touchdown
-n 1 着陆，降落；2 接球触地
+n. 1 着陆，降落；2 接球触地
 
 ###Peripheral
-adj 1 次要的，附带的
+adj. 1 次要的，附带的
 > * peripheral information 次要的，附带的
 
 2 外围的，周边的
 > * the peripheral nervous system. 外围神经系统
 
 ###Surging
-adj 汹涌的
+adj. 汹涌的

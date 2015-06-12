@@ -12,17 +12,17 @@ v&n 1 拖着脚走
 > * Shuffle the cards and deal out seven to each player
 
 ###Presidency
-n 总统或主席的职位（或任期）
+n. 总统或主席的职位（或任期）
 
 ###Predominate
-v 1 （数量上）占优势；以...为主
+v. 1 （数量上）占优势；以...为主
 > * a colour scheme in which red predominates 以红色为主的色彩组合
 
 2 <span style="color:blue"> ~ (over sb/sth) </span> 占主导地位，有最大影响
 > * Private interest was not allowed to predominate over the public good.
 
 ###Dominate
-v 1 支配，控制，影响，左右
+v. 1 支配，控制，影响，左右
 > * As a child he was dominated by his father.
 > * He tended to dominate the conversation.
 
@@ -36,41 +36,41 @@ v 1 支配，控制，影响，左右
 > * Arsenal dominated the first half of the match.
 
 ###Rubble
-n 碎石，砖块
+n. 碎石，砖块
 
 ###Exorbitant
-adj (of price) 过高的，高得离谱的
+adj. (of price) 过高的，高得离谱的
 > * **exorbitant costs/fares/fees/prices/rents** 
 过高的花费，交通费，收费，价格，租金
 
 ###Exotic
-adj 来自异国的，奇异的，
+adj. 来自异国的，奇异的，
 > * brightly-coloured **exotic flowers/plants/birds**
 色彩鲜艳的异国花卉
 
 ###Wavy
-adj 波浪形的
+adj. 波浪形的
 
 ###Chivalry
-n （尤指男人对女人）彬彬有礼，殷勤，体贴；2 骑士制度
+n. （尤指男人对女人）彬彬有礼，殷勤，体贴；2 骑士制度
 
 ###Phonetics
-n 语音学
+n. 语音学
 
 ###Oust
-v 剥夺，革职，罢免
+v. 剥夺，革职，罢免
 > * He was ousted as chairman. 他的主席职务被革除了
 
 ###Microscopic
-adj 极小的，微小的，用显微镜观察的；
+adj. 极小的，微小的，用显微镜观察的；
 > * a microscopic creature/particle. 微生物，微粒
 
 ###Bald
-adj 1 秃头的 2 无毛的 3 简单的，赤裸裸的
+adj. 1 秃头的 2 无毛的 3 简单的，赤裸裸的
 > * The bald fact is that we don't need you any longer.
 
 ###Coax
-v <span style="color:blue"> ~ sb (into doing sth) | ~ sb (into/out of sth) </span>
+v. <span style="color:blue"> ~ sb (into doing sth) | ~ sb (into/out of sth) </span>
 哄劝，劝诱
 > * She coaxed the horse into coming a little closer.
 
@@ -78,36 +78,36 @@ v <span style="color:blue"> ~ sb (into doing sth) | ~ sb (into/out of sth) </spa
 > * a ventilation shaft 通风井
 
 ###Connoisseur
-n 鉴赏家，鉴定家
+n. 鉴赏家，鉴定家
 
 ###Stylized
-adj （绘画、写作手法等）非写实的
+adj. （绘画、写作手法等）非写实的
 
 ###Avalanche
-n 雪崩，山崩
+n. 雪崩，山崩
 > * alpine villages destroyed in an avalanche.
 在一场雪崩中被摧毁的村庄
 > * We received an avalanche of letters in reply to our advertisement.
 我们在登出广告之后收到了雪片般飞来的答复信件
 
 ###Adept
-adj <span style="color:blue"> ~ (at/in sth) | ~ (at/in doing sth) 内行的，熟练的，擅长的
+adj. <span style="color:blue"> ~ (at/in sth) | ~ (at/in doing sth) 内行的，熟练的，擅长的
 
 ###Disintegrate
-v 1 碎裂，解体，分裂
+v. 1 碎裂，解体，分裂
 > * The plane disintegrated as it fell into the sea.
 
 2 衰微，瓦解，崩溃
 > * The authority of the central government was rapidly disintegrating.
 
 ###Slime
-n 粘液
+n. 粘液
 
 ###Cubism
-n 立体主义，立体派
+n. 立体主义，立体派
 
 ###Inflate
-v 1 使充气，膨胀
+v. 1 使充气，膨胀
 > * Inflate your life jacket by pulling sharply on the cord (细绳).
 
 2 鼓吹，吹捧
@@ -116,15 +116,15 @@ v 1 使充气，膨胀
 > * Food prices are no longer inflating at the same rate as last year.
 
 ###Inflation
-n 通货膨胀
+n. 通货膨胀
 
 ###Flashy
-adj 1 （物品）俗艳的，显眼的
+adj. 1 （物品）俗艳的，显眼的
 2 （人）穿着奢华的
 3 炫耀技艺的
 
 ###Ablaze
-adj 1 猛烈燃烧
+adj. 1 猛烈燃烧
 > * Cars and buses were **set ablaze** during the riot.
 
 2 <span style="color:blue"> ~ (with sth) </span> 闪耀，发光，明亮，色彩鲜艳
@@ -134,58 +134,58 @@ adj 1 猛烈燃烧
 > * He turned to her, his eyes ablaze with anger.
 
 ###Pliable
-adj 易弯曲的，柔韧的；（人）易受影响的
+adj. 易弯曲的，柔韧的；（人）易受影响的
 
 ###Concave
-adj 凹的，凹面的
+adj. 凹的，凹面的
 > * a concave lens/mirror 凹透镜；凹镜
 
 ###Convex
-adj 凸的，凸面的
+adj. 凸的，凸面的
 
 ###Eviscerate
-v 切除内脏，切除...的内部器官
+v. 切除内脏，切除...的内部器官
 > * After we eviscerate the fish we can start cooking it.
 
 ###Chronological
-adj 1 按发生时间顺序排列的
+adj. 1 按发生时间顺序排列的
 > * The facts should be presented in chronological order.
 
 2 <span style="color:blue"> ~ age </span> 按时间计算的年龄
 
 ###Chronology
-n 年表，按年代排列的顺序
+n. 年表，按年代排列的顺序
 
 ###Drudgery
-n 苦差，单调乏味、繁重无聊的工作
+n. 苦差，单调乏味、繁重无聊的工作
 
 ###Deficit
-n 1 赤字，逆差，亏损
+n. 1 赤字，逆差，亏损
 > * a budget/trade deficit 预算赤字，贸易逆差
 
 2 不足额，缺少
 > * There's a deficit of $3 million in the total needed to complete the project.
 
 ###Excavation
-n 1（对古物的）发掘，挖掘
+n. 1（对古物的）发掘，挖掘
 2 [C, usually pl.] 发掘现场
 > * The excavations are open to the public. 发掘现场对公众开放
 
 2 挖掘，开凿，挖土
 
 ###Rampant
-adj 1（坏事）泛滥的，猖獗的
+adj. 1（坏事）泛滥的，猖獗的
 > * rampant inflation. 失控的通胀
 > * Unemployment is now rampant in most of Europe.
 
 2 （植物）疯狂生长的
 
 ###Equestrian
-adj 马术的
+adj. 马术的
 > * equestrian events at the Olympic Games.
 
 ###Spectrum
-n 1 谱，光谱
+n. 1 谱，光谱
 2 声谱，波谱
 > * the electromagnetic/radio/sound spectrum. 电磁波谱；射频频谱；声谱
 
@@ -193,14 +193,14 @@ n 1 谱，光谱
 > * a broad spectrum of interests. 广泛的兴趣范围
 
 ###Monetary
-adj 货币的，钱的（尤指一国的金融）
+adj. 货币的，钱的（尤指一国的金融）
 > * **monetary policy/growth** 货币政策/增长
 
 ###Crucial
-adj 至关重要的，关键性的
+adj. 至关重要的，关键性的
 > * a crucial factor/issue/decision 关键性的因素/问题/决定
 
 ###Culinary
-adj 烹饪的，食物的
+adj. 烹饪的，食物的
 > * culinary skills. 烹饪技能
 

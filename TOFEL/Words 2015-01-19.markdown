@@ -8,7 +8,7 @@ induce [recorded?]
 incisive / incise
 afflict / affliction
 ###Thorny
-adj 1 [usually before noun] 棘手的，麻烦的
+adj. 1 [usually before noun] 棘手的，麻烦的
 > * a **thorny question/issue/problem**
 
 2 多刺的，有刺的
@@ -21,30 +21,30 @@ ally allies [pronunciation]
 alloy
 
 ###Foster
-v 1 促进，鼓励，培养 =encourage, promote
+v. 1 促进，鼓励，培养 =encourage, promote
 > * The club's aim is to foster better relations within the community.
 
 2 代养，抚育（他人子女）
 
-adj [only before noun]代养的，收养的
+adj. [only before noun]代养的，收养的
 > * a foster mother/father/family
 > * a foster child
 
 ###Coalition
-n 1 联合政府；2 （尤指政治团体的）联合体，联盟
+n. 1 联合政府；2 （尤指政治团体的）联合体，联盟
 
 ###Sanctimonious
-adj 伪善的，道貌岸然的
+adj. 伪善的，道貌岸然的
 
 ###Outright
-adj 1 [only before noun] 完全的，彻底的，绝对的
+adj. 1 [only before noun] 完全的，彻底的，绝对的
 > * an outright ban/rejection/victory 完全禁止；断然拒绝；彻底胜利
 
 2 公开的，直率的，直截了当的
 > * There was outright oppostion to the plan. 该计划遭到公开反对
 
 ###Repertory (repository)
-n 剧目
+n. 剧目
 
 judicious
 wring: wring out the cloth 拧干抹布

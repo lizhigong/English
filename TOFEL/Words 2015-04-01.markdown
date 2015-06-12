@@ -11,78 +11,78 @@
 ---
 
 ###Anthropology
-n 人类学
+n. 人类学
 
 ###Perishable [perish]
-adj （尤指食物）易腐烂的，易变质的
+adj. （尤指食物）易腐烂的，易变质的
 
 ###Vaulted
-adj 拱形的，有拱顶的
+adj. 拱形的，有拱顶的
 
 ###Burdensome
-adj 负担沉重的，难以承担的
+adj. 负担沉重的，难以承担的
 
 ###Ultrasonic
-adj 超声的 ultrasonic waves 超声波
+adj. 超声的 ultrasonic waves 超声波
 
 ###Atheist
-n 无神论者
+n. 无神论者
 
 ###Tectonic
-adj 地质构造的 plate tectonics 板块构造学
+adj. 地质构造的 plate tectonics 板块构造学
 
 ###Encroach
-v 1 <span style="color:blue">~ (on/upon sth)</span> 侵占（某人的时间），侵犯（某人的权利），扰乱（某人的生活）
+v. 1 <span style="color:blue">~ (on/upon sth)</span> 侵占（某人的时间），侵犯（某人的权利），扰乱（某人的生活）
 > I won't encroach your time any longer.
 
 2 侵蚀，蚕食（土地）
 ###Instal(l)ment
-n （分期付款的）一期付款
+n. （分期付款的）一期付款
 > We paid for the car **by/in instalment**.
 
 ###Overbalance
-v 失去平衡，摔倒
+v. 失去平衡，摔倒
 
 ###Vibration
-n [C,U]震动，颤动，共鸣
+n. [C,U]震动，颤动，共鸣
 
 ###Gentility
-n 文雅，彬彬有礼，高贵的身份
+n. 文雅，彬彬有礼，高贵的身份
 > He took her hand with discreet gentility.
 
 幽静古朴
 > the faded gentility of the town
 
 ###Spined
-adj 带刺的 
+adj. 带刺的 
 
 ###Postoperative
-adj 手术后的
+adj. 手术后的
 
 ###Indigestion
-n 消化不良（症）
+n. 消化不良（症）
 
 ###Figurehead
-n 有名无实的领导人，傀儡
+n. 有名无实的领导人，傀儡
 
 ###Serrated
-adj 锯齿状的 a knife with a **serrated edge**.
+adj. 锯齿状的 a knife with a **serrated edge**.
 
 ###Driftwood
-n 浮木，漂流木
+n. 浮木，漂流木
 
 ###Pebble
-n 鹅卵石，砾石
+n. 鹅卵石，砾石
 
 ###Elliptical
-adj 1 （尤指语法）省略的，隐晦的 an elliptical remark 隐晦的话
+adj. 1 （尤指语法）省略的，隐晦的 an elliptical remark 隐晦的话
 2 椭圆的
 
 ###Naturalistic
-adj 自然主义风格的
+adj. 自然主义风格的
 
 ###Blacksmith
 铁匠
 
 ###Multistory (Multi-storey)
-adj 多层的
+adj. 多层的

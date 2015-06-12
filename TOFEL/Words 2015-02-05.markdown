@@ -11,7 +11,7 @@
 ### Fencing
 
 ### Tavern
-n a pub or an inn.
+n. a pub or an inn.
 
 ### Odour / Odourless
 
@@ -22,23 +22,23 @@ n a pub or an inn.
 ### Pamphlet
 
 ### Brochure
-n (资料或广告) 手册
+n. (资料或广告) 手册
 > * a travel brochure. 旅游手册
 
 ### Stellar
-adj 星的，恒星的
+adj. 星的，恒星的
 > * In a stellar map the stars can seem to take on many patterns.
 星图上的星星看起来可能有很多图案
 
 ### Versatile
-adj 1 (人)多才多艺的，有多种技能的
+adj. 1 (人)多才多艺的，有多种技能的
 > * He's a versatile actor who has played a wide variety of parts.
 
 2 (食物、建筑等)多功能的，多用途的
 > * Eggs are easy to cook and are an extremely versatile food.
 
 ### Confine
-v [VN] 1 <span style="color:blue">~ sb/sth to sth</span> 限制，限定
+v. [VN] 1 <span style="color:blue">~ sb/sth to sth</span> 限制，限定
 > * The work will not be confined to the Glasgow area. 这项工作不会局限于格拉斯哥地区。
 > * I will **confine myself** to looking at the period from 1900 to 1916. 我将把自己的考察范围限定在1900年至1916年这段时间内
 
@@ -50,7 +50,7 @@ v [VN] 1 <span style="color:blue">~ sb/sth to sth</span> 限制，限定
 ### ***Precipitate***
 
 ### Subside
-v 1 趋于平静；平息，消退，减弱
+v. 1 趋于平静；平息，消退，减弱
 > * She waited nervously for his anger to subside.
 
 2 (水)回退，减退
@@ -66,19 +66,19 @@ v 1 趋于平静；平息，消退，减弱
 ### Academician
 
 ### Foe
-n (old-fashioned or formal) 敌人，仇敌
+n. (old-fashioned or formal) 敌人，仇敌
 
 ### Crab
 
 ### Fortuitous
 
 ### Frenzy 
-n 疯狂；狂乱；狂暴
+n. 疯狂；狂乱；狂暴
 > * in a **frenzy of activity/excitement/violence** 疯狂的活动/兴奋/暴力
 > * The speaker worked the crowd up **into a frenzy**. 演讲者把听众的情绪煽动得疯狂起来
 
 ### Frenetic
-adj 发狂似的，狂乱的
+adj. 发狂似的，狂乱的
 > * a scene of frenetic activity. 疯狂活动的场面
 
 ### Riot

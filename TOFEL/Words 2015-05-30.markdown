@@ -1,90 +1,160 @@
 #Words 2015-05-30
 
 ###Gnaw
+v. <span style="color:blue">~ (away) (at/on sth)</span>
+咬，啃，啮
+> * The dog was gnawing a bone.
+> * Rats had gnawed through the cable.
+> * (figurative) Self-doubt began to gnaw away at her confidence.
+
+<span style="color:blue">gnaw at sb</span> (长时间) 折磨某人
+> * The problem had been gnawing at him for months.
 
 ###Camouflage
+n. 1 [U]  (军事上的)伪装
+> * a camouflage jacket. 迷彩夹克衫
+
+2 [U, sing.]  (动物的)保护色，保护形状
+
+3 [U, sing.] 隐瞒
+> * Her angry words were camouflage for the way she felt.
+
+v. <span style="color:blue">~ sth (with sth)</span> 伪装，掩饰
+> * Her size were camouflaged by the long loose dress she wore.
 
 ###Retriever
-n 猎犬
+n. 猎犬
 
 ###Cactus (pl. -> Cacti)
-n 仙人掌
+n. 仙人掌
 
 ###Choppy
-adj 1 (海洋的) 波浪起伏的，不平静的
+adj. 1 (海洋的) 波浪起伏的，不平静的
 2 (NAmE, disapproving) (文章) 不连贯的，支离破碎的
 
 ###Choreography
+n. [U] 舞蹈设计(尤指芭蕾舞)
 
-###Choreographic
+<span style="color:blue">Choreographic</span> adj. 
 
 ###Metabolism
-n 新陈代谢
+n. 新陈代谢
 > * The body's metabolism is slowed down by extreme cold.
 
 ###Snowdrift
-n a deep pile of snow that has been blown together by the wind.
+n. a deep pile of snow that has been blown together by the wind.
 
 ###Inundate
-v [VN] 1 <span style="color:blue">~ sb (with sth)</span> 使应接不暇，使不胜负荷
+v. [VN] 1 <span style="color:blue">~ sb (with sth)</span> 使应接不暇，使不胜负荷
 > * We have been inundated with offers of help. 主动援助多得使我们应接不暇
 
 2 (水) 淹没，泛滥
 
 ###Vaccinate
+v. [VN, often passive] <span style="color:blue">~ sb (against sht)</span>
+给...接种疫苗
+> * I was vaccinated against tetanus (破伤风).
 
 ###Irreversible
+adj. 无法复原的，无法挽回的，不能倒转的
+> * an irreversible change/ decline/ decision.
 
 ###Irrevocable
+adj. 无法改变的，不可更改的
+> * an **irrevocable decision/ step** 最后决定/一步
 
 ###Freighter
+n. 货船，运输飞机
 
 ###Carapace
+n. (术语) (动物的)甲壳，外壳
 
 ###Husk
+n. (尤指谷类、果实和种子的)外壳，外皮
+v. [VN] 去壳，去皮
 
 ###Jellyfish
+n. (pl. jellyfish) 水母，海蜇
 
 ###Buzzer
+n. 蜂鸣器
 
 ###Utopian
+adj. 乌托邦的，空想主义的
 
 ###Dietitian
+n.  营养学家
 
 ###Shipwright
-n a shipbuilder.
+n. a shipbuilder.
 
 ###Osprey
+n. 鱼鹰，鹗
 
 ###Expertise
+n. [U] <span style="color:blue">~ (in sth/in doing sth)</span> 专门知识，专长
+> * **professional/ scientific/ technical, etc. expertise.
 
 ###Anesthesia
+n. [U] 1 麻醉
+
+2 麻木，感觉缺失
 
 ###Hibernate / Hibernation
+v. / n. 冬眠，蜇伏
 
 ###Boastful
+adj. 自吹自擂的，自夸的
+> * I tried to emphasize my good points without sounding boastful.
 
 ###Crisscross
+adj. & n. [usually before noun] 十字交叉的，纵横交错的
+> * a criss-cross pattern 十字形图案
+> * (n.) a criss-cross of streets. 纵横交错的街道
+
+v. [VN/V] 构成十字形图案
+> * The city is criss-crossed with canals. 这座城市里运河纵横交错
 
 ###Nonconformist
+n. & adj. 不遵从传统规范的(人)，不认同主流思想的(人)
 
 ###Nonconformity
+n. [U] 不遵从传统规范，不认同主流思想
+
+###Orbit
+n. 1 [C, U]  (天体等运行的)轨道
+> * a space station **in orbit** round the moon.
+> * A new satellite has been **put into orbit** around the earth. 
+
+2 [sing.]  (人或组织等的)影响范围，势力范围
+> * to **come/ fall/ be within sb's orbit** 进入某人的势力范围
 
 ###Orbital
+adj. 1 轨道的
 
-###Disrupt
+2 外环路的
 
-###Disorganize
+n. 高速环形路
+
+###Disorganized
+adj. 计划不周的，缺乏组织的
+
+<span style="color:blue">Disorganization, -sation</span> n [U]
 
 ###Skyscraper
+n 摩天大楼
 
 ###Skyrocket
+v. [V]  (价格等)飞涨，猛涨
 
 ###Acronym
+n. 首字母缩写
 
 ###Plasma
+n 1 血浆 2 等离子体，等离子气体
 
 ###Theist
+n 有神论者
 
 ###Tundra
-
+n 冻原，苔原

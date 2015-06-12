@@ -7,7 +7,7 @@
 ###Elixir
 
 ###Allegation
-n 说法，指控
+n. 说法，指控
 
 ###Adhesive
 
@@ -22,7 +22,7 @@ n 说法，指控
 ###Stationery
 
 ###Stagnant
-adj 1 (空气或水)不流动而浑浊的 2 停滞的，不发展的，无变化的
+adj. 1 (空气或水)不流动而浑浊的 2 停滞的，不发展的，无变化的
 
 ###Harshness
 

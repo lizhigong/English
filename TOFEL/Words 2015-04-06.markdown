@@ -5,119 +5,119 @@
 --
 
 ###Intrepid
-adj (formal, often humorous) 勇敢的，无畏的
+adj. (formal, often humorous) 勇敢的，无畏的
 
 ###Revere
-v [VN]<span style="color:blue">~ sb (as sth)</span> 尊敬，崇敬
+v. [VN]<span style="color:blue">~ sb (as sth)</span> 尊敬，崇敬
 
 ###Juvenile
-adj 1 (law, formal)(only before noun) 少年的，未成年的；2 幼稚的，不成熟的
+adj. 1 (law, formal)(only before noun) 少年的，未成年的；2 幼稚的，不成熟的
 > * Don't be so juvenile! 别那么孩子气
 
-n (law, formal) 少年
+n. (law, formal) 少年
 ###Adolescent
 adj. 青春期的
 
-n 青少年
+n. 青少年
 
 ###Respiration
-n (formal) 呼吸
+n. (formal) 呼吸
 
 ###Respiratory
-adj 呼吸的
+adj. 呼吸的
 
 ###Lucrative
-adj 赚大钱的，获利多的
+adj. 赚大钱的，获利多的
 > * a **Lucrative business/contract/market** 利润丰厚的生意/合同/市场
 
 ###Renunciation
-n (formal) 1 宣布放弃
+n. (formal) 1 宣布放弃
 > * the renuciation of violence 放弃使用暴力的声明
 
 2 克己，禁欲
 ###Waive
-v [VN] 放弃（权利，要求等）
+v. [VN] 放弃（权利，要求等）
 ###Uneven
-adj 1 不平坦的，凹凸的； 2 不规则的，无规律的
+adj. 1 不平坦的，凹凸的； 2 不规则的，无规律的
 > * Her breathing was quick and uneven. 她的呼吸急促不匀
 > * uneven teeth 不整齐的牙齿
 
 ###Skimp
-v <span style="color:blue">~ (on sth)</span> 节省，吝惜（时间、金钱等）
+v. <span style="color:blue">~ (on sth)</span> 节省，吝惜（时间、金钱等）
 
 ###Premium
-n 1 保险费；2 额外费用，附加费
+n. 1 保险费；2 额外费用，附加费
 
-adj 高昂的，优质的
+adj. 高昂的，优质的
 
 ###Postage
-n 邮资，邮费
+n. 邮资，邮费
 
 ###Tuition
-n [U] 1 <span style="color:blue">~ (in sth) </span>（针对个人或小组的）教学，指导
+n. [U] 1 <span style="color:blue">~ (in sth) </span>（针对个人或小组的）教学，指导
 2 学费
 
 ###Regime
-n 1 （尤指未通过公正选举的）统治制度，政权，政体
+n. 1 （尤指未通过公正选举的）统治制度，政权，政体
 > * a fascist regime 法西斯政权
 
 2 组织方法，管理体制
 > * Our tax regime is one of the most favourable in Europe.
 
 ###Anarchist
-n 无政府主义者
+n. 无政府主义者
 
 ###Ajar
-adj [not before noun] 半开的，微启的
+adj. [not before noun] 半开的，微启的
 > * I'll leave the door ajar. 我让门半开着
 
 ###Actuate
-v 1 开动（机器、装置等）
+v. 1 开动（机器、装置等）
 
 2 [usually passive] 激励，驱使
 > * He was actuated entirely by malice
 
 ###Ventilate
-v [VN] 使（房间、建筑物等）通风，通气；2 (formal) 公开表达（感情或意见）
+v. [VN] 使（房间、建筑物等）通风，通气；2 (formal) 公开表达（感情或意见）
 ###Milieu
-n [C, usually sing.] (pl. milieux or milieus) 社会环境，社会背景
+n. [C, usually sing.] (pl. milieux or milieus) 社会环境，社会背景
 ###Effluent
-n 流出物，污水
+n. 流出物，污水
 ###Denomination
-n 1 （基督）教派，宗派；2 （尤指钱的）面额，面值
+n. 1 （基督）教派，宗派；2 （尤指钱的）面额，面值
 > * coins and banknotes of various denominations. 不同面额的硬币和纸币
 
 ###Nominee
-n 1 被提名者，被任命者；2 （投资等的）名义持有人
+n. 1 被提名者，被任命者；2 （投资等的）名义持有人
 ###Twine
-n （两股或多股的）线，绳，麻绳
+n. （两股或多股的）线，绳，麻绳
 
-v <span style="color:blue"> ~ (sth) around/round/through/in sth</span> （使）盘绕，缠绕
+v. <span style="color:blue"> ~ (sth) around/round/through/in sth</span> （使）盘绕，缠绕
 > * Ivy twining around a tree trunk.
 
 ###Penchant
-n 爱好，嗜好 
+n. 爱好，嗜好 
 > * She **has a penchant for** champagne. 她酷爱香槟酒
 
 ###Proclivity
-n <span style="color:blue">~ (for sth/for doing sth)</span> (formal) （常指对坏事的）倾向，癖好
+n. <span style="color:blue">~ (for sth/for doing sth)</span> (formal) （常指对坏事的）倾向，癖好
 > * his sexual/criminal proclivities 他的性倾向/犯罪倾向
 
 ###Vowel
-n 元音，元音字母
+n. 元音，元音字母
 
 ###Aromatic
-adj 芳香的，有香味的
+adj. 芳香的，有香味的
 > * **aromatic oils/herbs** 芳香油/草
 
 ###Aroma
-n 芳香，香味
+n. 芳香，香味
 
 ###Arsenal
-n 1 （统称）武器；2 兵工厂，军械库
+n. 1 （统称）武器；2 兵工厂，军械库
 
 ###Saucer
-n 茶碟，茶托
+n. 茶碟，茶托
 
 ###Quantum
-n 量子
+n. 量子

@@ -9,20 +9,20 @@
 adj&n 四边形(的)
 
 ###Benign
-adj 1 善良的，和善的，慈祥的；2 （肿瘤）良性的
+adj. 1 善良的，和善的，慈祥的；2 （肿瘤）良性的
 
 ###Malnutrition
-n 营养不良
+n. 营养不良
 
 ###Reiterate
-v 反复地说，重申
+v. 反复地说，重申
 > * Let me reiterate that we are fully committed to this policy.
 
 ###Iterate
-v 迭代
+v. 迭代
 
 ###Incandescent
-adj 1 白热的，白炽的
+adj. 1 白热的，白炽的
 > * incandescent lamps 白炽灯
 
 2 十分明亮的，耀眼的
@@ -32,14 +32,14 @@ adj 1 白热的，白炽的
 > * She was incandescent with anger. 她怒不可遏
 
 ###Irradiate
-v 1 照射； 2 <span style="color:blue">~ sth (with sth)</span> 使生辉，使焕发
+v. 1 照射； 2 <span style="color:blue">~ sth (with sth)</span> 使生辉，使焕发
 > * faces irradiated with joy 一张张高兴得神采奕奕的面孔
 
 ###Deign
-v (disapproving) 屈尊，俯就，降低身份（做某事）
+v. (disapproving) 屈尊，俯就，降低身份（做某事）
 
 ###Patronizing
-adj (disapproving)自认为高人一等的；摆派头的
+adj. (disapproving)自认为高人一等的；摆派头的
 > * I was only trying to explain; I didn't want to soud patronizing.
 
 ###Marshy
@@ -49,67 +49,67 @@ derivative of **marsh**. 沼泽的
 derivative of **swamp**. 沼泽的
 
 ###Irreparable
-adj （伤害、损失）无法弥补的，不能修复的
+adj. （伤害、损失）无法弥补的，不能修复的
 > * to cause **irreparable damage/harm** to your health. 对健康造成无法弥补的损害
 
 ###Embellish
 1 美化，装饰；2 润饰、渲染
  
 ###Overhaul
-n 检修，大修，改造
+n. 检修，大修，改造
 > * a complete overhaul 全面检修
 
-v 1 彻底检修；2 赶上，超过
+v. 1 彻底检修；2 赶上，超过
 ###Oversight
-n 1 疏忽，忽略，失察； 2 负责，照管
+n. 1 疏忽，忽略，失察； 2 负责，照管
 > * The committee has oversight of finance and general policy. 委员会负责处理财政和综合政策。
 
 ###Compatible
-adj 兼容的，可共存的，关系好的
+adj. 兼容的，可共存的，关系好的
 
 ###Elusive
-adj 难以找到的，难以解释的，难以达到的
+adj. 难以找到的，难以解释的，难以达到的
 > * A solution to the problem of toxic waste is **proving elusive**. 有毒废料这个问题证明难以解决
 
 ###Cramped
-adj 狭窄的，狭小的，拥挤的；2 （字迹）密小难认的，密密麻麻的
+adj. 狭窄的，狭小的，拥挤的；2 （字迹）密小难认的，密密麻麻的
 
 ###Upland
-n （内陆）高地；山地
+n. （内陆）高地；山地
 
 ###Leopard
-n 豹
+n. 豹
 
 ###Paleontologist
-n 古生物学家
+n. 古生物学家
 
 ###Recount
-v 讲述，叙述
+v. 讲述，叙述
 
 ###Pinpoint
-adj 准确的，精确的
-n 光点，极小的范围
-v 明确指出，确定； 2 准确解释或说明
+adj. 准确的，精确的
+n. 光点，极小的范围
+v. 明确指出，确定； 2 准确解释或说明
 > * The report pinpointed the areas most in need of help.
 
 ###Autobiography
-n 自传
+n. 自传
 
 ###Devastating
-adj 毁灭性的的，
+adj. 毁灭性的的，
 > * a devastating explosion/fire/cyclone 毁灭性的爆炸/火灾/台风
 > * devastating effect 毁灭性的影响
 > * devastating blow 毁灭性的打击
 
 ###Devastate
-v 1 彻底毁灭，毁坏，破坏；2 [usually passive]使震惊，使极为忧伤
+v. 1 彻底毁灭，毁坏，破坏；2 [usually passive]使震惊，使极为忧伤
 
 ###Veto
-n 1 否决权
+n. 1 否决权
 > * to hav the power/right of veto 有否决权
 
 2 拒绝认可，禁止
 > * For months there was a veto on employing new staff. 有好几个月禁止雇佣新职员
 
 ###Augment [various pronunciation]
-v 增加，提高，扩大
+v. 增加，提高，扩大

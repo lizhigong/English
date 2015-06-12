@@ -1,34 +1,34 @@
 #Words 2015/04/16
 
 ###Sloth
-n 1 树懒；2 懒惰
+n. 1 树懒；2 懒惰
 
 ###Transmitter
-n 发射机，发射台；传输者，传播者，传播媒介
+n. 发射机，发射台；传输者，传播者，传播媒介
 
 ###Telecommute
-n 家庭办公，远距离工作
+n. 家庭办公，远距离工作
 
 ###Viscous
-adj 粘稠的，粘滞的
+adj. 粘稠的，粘滞的
 
 ###Paraphrase
-v 1 （用更容易理解的文字）解释，释义
+v. 1 （用更容易理解的文字）解释，释义
 > * Try to paraphrase the question before answer it.
 
-n 解释，释义，意译
+n. 解释，释义，意译
 
 ###Shrinkage
-n 缩小，收缩，收缩量，收缩程度
+n. 缩小，收缩，收缩量，收缩程度
 > * the shrinkage of heavy industy. 重工业的萎缩
 
 ###Extol
-v 称赞，颂扬
+v. 称赞，颂扬
 > * Doctors often **extol the virtues** of eating less fat.
 医生常常宣扬少吃脂肪的好处
 
 ###Taper
-v （使）逐渐变窄
+v. （使）逐渐变窄
 > * The tail tapered to a round tip. 尾部越来越细，形成了一个圆尖
 
 <span style="color:blue">PHR V: taper off</span> （数量，程度）逐渐减少
@@ -37,24 +37,24 @@ v （使）逐渐变窄
 <span style="color:blue">taper sth <-> off</span> 使（数目等）逐渐减少，降低...的程度
 > * They are gradually tapering off production of the older models.
 
-n 1 （点火用的）木条，纸媒
+n. 1 （点火用的）木条，纸媒
 2 细长蜡烛
 3 逐渐缩小 
 
 ###Impersonate
-v 冒充，假扮，扮演
+v. 冒充，假扮，扮演
 > * He was caught trying to impersonate a security guard.
 
 ###Deformation
-n 1 [U] 损形，变形，畸形
+n. 1 [U] 损形，变形，畸形
 2 [C] 破相，变丑，残废
 > * a deformation of the spine 脊柱畸变
 
 ###Notation
-n 符号，记号
+n. 符号，记号
 
 ###Epidermis
-n 表皮
+n. 表皮
 
 ###Customary
 1 习俗的，习惯的
@@ -65,22 +65,22 @@ n 表皮
 她以她特有的高效把一切安排妥当
 
 ###Rattlesnake
-n 响尾蛇
+n. 响尾蛇
 
 ###Invertebrate
-n 无脊椎动物
+n. 无脊椎动物
 
 ###Reassure
-v 使安心，打消...的疑虑
+v. 使安心，打消...的疑虑
 
 ###Gaseous
-adj 气体的，含气体的
+adj. 气体的，含气体的
 
 ###Vaccine
-n 疫苗
+n. 疫苗
 
 ###Galvanize
-v 1 <span style="color:blue">~ sb (into sth/into doing sth)</span>
+v. 1 <span style="color:blue">~ sb (into sth/into doing sth)</span>
 使震惊，使振奋，刺激，激励
 > * The urgency of his voice galvanized them into action.
 他急迫的声音激励他们行动起来
@@ -89,32 +89,32 @@ v 1 <span style="color:blue">~ sb (into sth/into doing sth)</span>
 > * a galvanized bucket 镀锌桶
 
 ###Refraction
-n 折射
+n. 折射
 
 ###Refract
-v [VN]使（光线）折射，使产生折射
+v. [VN]使（光线）折射，使产生折射
 > * Light is refracted when passwd through a prism（棱镜）
 
 ###Termite
-n 白蚁
+n. 白蚁
 
 ###Carat
-n 克拉
+n. 克拉
 
 ###Condor
-n 秃鹫
+n. 秃鹫
 
 ###Flock
-n 1 <span style="color:blue">~ (of sb/sth) </span>群
+n. 1 <span style="color:blue">~ (of sb/sth) </span>群
 2 （填充垫子，椅子等得）小块软填料
 3 （植绒用的）短绒，绒屑
 > * flock wallpaper 植绒墙纸
 
-v 集群，聚集
+v. 集群，聚集
 > * Thousands of people flocked to hte beach this weekend.
 
 ###Portray
-v 1 描绘，描画 = depict
+v. 1 描绘，描画 = depict
 2 <span style="color:blue">~ sb/sth (as sb/sth) </span>
 将...描写成，给某人某种印象
 > * Throughout the trial, he portrayed himself as the victim.
@@ -123,10 +123,10 @@ v 1 描绘，描画 = depict
 > * His father will be portrayed by Sean Connery. 肖恩·康纳利将扮演他的父亲
 
 ###Arthritis
-n 关节炎
+n. 关节炎
 
 ###Scrupulous
-adj 1 仔细的，一丝不苟的
+adj. 1 仔细的，一丝不苟的
 > * You must be scrupulous about hygiene when you're preparing a baby's feed.
 > * scrupulous attention to detial. 体察入微
 
@@ -134,19 +134,19 @@ adj 1 仔细的，一丝不苟的
 审慎正直的，恪守道德规范的
 
 ###Cello
-n 大提琴
+n. 大提琴
 
 ###Tensile
-adj 1 张力的，拉力的, 抗拉的
+adj. 1 张力的，拉力的, 抗拉的
 > * the **tensile strength** of rope 绳索的抗拉强度
 
 2 可拉长的，可延伸的
 
 ###Suspender
-n 吊带
+n. 吊带
 
 ###obsess
-v 1 使痴迷，使着迷
+v. 1 使痴迷，使着迷
 > * He's obsessed by computers
 
 2 <span style="color:blue">~ (about sth)</span> 唠叨，念念不忘

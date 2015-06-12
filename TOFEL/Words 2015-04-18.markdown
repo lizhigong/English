@@ -1,13 +1,13 @@
 ### Words 2015-04-18
 
 ###Meteorology
-n 气象学
+n. 气象学
 
 ###Hummingbird
-n 蜂鸟
+n. 蜂鸟
 
 ###Preoccupation
-n 1 <span style="color:blue"> ~ (with sth) </span> 
+n. 1 <span style="color:blue"> ~ (with sth) </span> 
 思虑，盘算，长久思考的事情
 
 > * She found his preoccupation with money irritating.
@@ -17,28 +17,28 @@ n 1 <span style="color:blue"> ~ (with sth) </span>
 > * She spoke slowly, in a state of preoccupation.
 
 ###Subsidize
-v 资助，补助，给...发津贴
+v. 资助，补助，给...发津贴
 > * The housing projects are subsidized by the government.
 
 ###Walkout
-n 1 罢工；2 （为表示抗议而突然的）退场，退席
+n. 1 罢工；2 （为表示抗议而突然的）退场，退席
 
 ###Prevailing
-adj 1 流行的，普遍的
+adj. 1 流行的，普遍的
 
 ###Polygon
-n 多边形
+n. 多边形
 
 ###Unbridgeable
-adj （分歧、意见）无法弥合的，无法沟通的
+adj. （分歧、意见）无法弥合的，无法沟通的
 
 ###Nonfiction
-n 通告，公职，告示
+n. 通告，公职，告示
 > * **advanced/prior notification** 预先通告
 > * written notification. 书面通知
 
 ###Contender
-n 竞争者，角逐者，争夺者
+n. 竞争者，角逐者，争夺者
 > * a **leading/serious/strong contender** for the party leadership.
 该党领导权最重要的/强劲的/有实力的竞争者
 
@@ -49,85 +49,85 @@ adj<span style="color:blue">~ (for sth/to do sth)</span>
 > * ineligible for vote.
 
 ###Spank(ing)
-v 打(尤指小孩）屁股
+v. 打(尤指小孩）屁股
 (n 打屁股)
 
 ###Portrayal
-n 描绘，描述，展现方式
+n. 描绘，描述，展现方式
 > * The article examines the portrayal of gay men in the media.
 
 ###Complimentary
-adj 1 免费的，赠送的
+adj. 1 免费的，赠送的
 2<span style="color:blue">~ (about sth)</span> 表示钦佩的，赞美的
 > * a complimentary remark. 赞美的言辞
 
 ###Colloquial
-adj 会话的，口语的
+adj. 会话的，口语的
 
 ###Refurbish
-v 再装修，清理装修
+v. 再装修，清理装修
 
 ###Subspecies
-n 亚种
+n. 亚种
 
 ###Lithograph
-n 平版印刷画
+n. 平版印刷画
 
 ###Bequest
-n 遗产，遗赠
+n. 遗产，遗赠
 
 ###Interpersonal
-adj 人际关系的
+adj. 人际关系的
 > * interpersonal skills
 
 ###Detergent
-n 洗涤剂，洗衣粉
+n. 洗涤剂，洗衣粉
 
 ###Ensemble
-n 1 乐团，剧团（全体成员）
+n. 1 乐团，剧团（全体成员）
 > * a brass/wind/string, etc. ensemble 铜管乐器、管乐器、弦乐器等合奏组
 
 2 整体，全体
 3 全套服装
 
 ###Aerodynamics
-n 1 [pl.] 空气动力（特性)，空气动力学
+n. 1 [pl.] 空气动力（特性)，空气动力学
 > * Research has focused on improving the car's aerodynamics.
 
 ###Sinuous
-adj 弯曲有致的，蜿蜒的
+adj. 弯曲有致的，蜿蜒的
 > * a sinuous movement 婀娜多姿的动作
 
 ###Mammal
-n 哺乳动物
+n. 哺乳动物
 
 ###Pocketbook
-n 1 （个人或国家的）财政状况；财力
+n. 1 （个人或国家的）财政状况；财力
 > * Many foreign goods are too expensive for American pocketbooks.
 许多外国货都太贵，与一般美国人的财力不符
 
 ###Methodically
-adj 方法的
+adj. 方法的
 > * methodological problems 方法问题
 
 ###Sporadic(ally)
-adj (adv) 偶尔发生的，断断续续的
+adj. (adv) 偶尔发生的，断断续续的
 > * **sporadic fighting/gunfire/violence, etc** 
 零星的战斗，一阵一阵的炮火，见或发生的暴力事件
 
 ###Inelastic
-adj 生硬的，没有弹性的
+adj. 生硬的，没有弹性的
 
 ###Scaled
-adj 有鳞片的
+adj. 有鳞片的
 > * fish scale 鱼鳞
 
 ###Rekindle
-v 使重新活跃，使复苏
+v. 使重新活跃，使复苏
 > * to rekindle feelings/hopes 再次引发感情；重新点燃希望
 
 ###Kindle
-v 1 开始燃烧，点燃
+v. 1 开始燃烧，点燃
 > * We watched as the fire slowly kindled.
 > * to **kindle a fire/flame** 点火，点燃火焰
 
@@ -136,21 +136,21 @@ v 1 开始燃烧，点燃
 > * Suspicion kindled with her. 她渐渐产生了怀疑
 
 ###Shutter
-n [usually pl.] 百叶窗，活动护窗
+n. [usually pl.] 百叶窗，活动护窗
 
 ###Emerging
-adj 新兴的，崭露头角的
+adj. 新兴的，崭露头角的
 
 ###Edible
-adj 适宜食用的，可以吃的
+adj. 适宜食用的，可以吃的
 > * The food at the hotel was barely edible. 这家旅店的食物简直不能入口
 
 ###Excavate
-v 1 发掘，挖出（古建筑或古物）
+v. 1 发掘，挖出（古建筑或古物）
 > * The site has been excavated by archaeologist.
 
 2 挖掘，开凿，挖空
 > * The body was discovered when builders excavated the area.
 
 ###Seamount
-n 海山，海峰
+n. 海山，海峰
