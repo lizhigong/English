@@ -18,8 +18,6 @@ comparable
 
 expenditure
 
-engraving / engrave
-
 tactics
 
 specimen

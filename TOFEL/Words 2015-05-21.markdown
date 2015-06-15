@@ -1,35 +1,79 @@
 #Words 2015/05/21
 
 ###Stipulate
+v (formal) 规定，明确要求
+> * The job advertisement stipulates that the applicant must have three years experience. [V + that]
+> * A delivery date is stipulated in the contract. [VN]
 
-###Stipulation
+<span style="color:blue">Stipulation</span> n [C, U]
+> * The only stipulation is that the topic you choose must be related to your studies.
 
 ###Monopoly
+n 1 <span style="color:blue">~ (in/of/on sth)</span> 垄断，专营服务
+> * In the past central government had a monopoly on television broadcasting.
+
+2 <span style="color:blue">~ in/of/on sth</span> 独占，专利
+> * A good education should not be the monopoly of the rich.
 
 ###Wrinkle
+n 1 (尤指脸上的)皱纹
+> * There were fine wrinkles around her eyes. (fine = subtle)
+
+2 [usually pl.]  (布或纸上的) 褶皱，皱痕
+
+v 1 <span style="color:blue">~ (sth) (up)</span> (使脸上) 起皱纹，皱起
+> * [VN] She wrinkled up her nose in distaste. 她厌恶地皱起鼻子
+> * [V] His face wrinkled in a grin 他咧嘴一笑，满脸都是皱纹
+
+2 (使) 起褶皱 
+> * Her stockings were wrinkling at the knees. 她长袜的膝盖处起了褶皱
 
 ###Solder
-
-###Ambivalence
+n. [U] 焊料，焊锡
+v. [VN] <span style="color:blue">~ sth (to/onto sth) | ~ (A and B together)</span>
+焊接，焊合
 
 ###Engrave
+v. [VN, often passive] <span style="color:blue">~ A (with B) | ~ B on A</span>
+在...上雕刻(字或图案)
+
+> * The silver cup was engraved with his name.
+
+<span style="color:blue">be engraved on/in your 'heart, 'memory, 'mind, etc.</span> 牢记，铭记
 
 ###Oratorio
+n. 清唱剧，神剧
 
 ###Aria
+n. 咏叹调
 
 ###Trilogy
+n. 三部曲
 
 ###Ion
+n. 离子
 
 ###Silica
+n. [U] 二氧化硅
 
 ###Olfactory
+adj. 嗅觉的
+> * olfactory cells/nerves/organs 嗅觉细胞/神经/器官
 
 ###Tactile
+adj. 触觉的
+> * tactile stimuli 触觉刺激
+> * visual and tactile communication
 
 ###Folklore
+n. 民俗，民间传说
 
 ###Publicize
+v. [VN] 宣传，推广，宣扬
+> * a **much/highly/widely publicized** speech. 一篇收到大力/高度/广泛报道的讲话
 
 ###Motif
+n. 1 装饰图案
+> * wallpaper with a flower motif.
+
+2 (文学作品的) 主题，主旨，动机 SYN: <span style="color:blue">theme</span>
