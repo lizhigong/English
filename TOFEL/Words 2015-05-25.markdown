@@ -1,20 +1,44 @@
 #Words 2015-05-25
 
 ###Delirium
+n [U] 神志失常，谵妄 a mental state where sb becomes <span style="color:blue">delirious</span>
+> * fits of delirium 一阵阵胡言乱语
 
 ###Mania
+n [C, usually sing., U] <span style="color:blue">~ (for sth / for doing sth)</span>
+强烈的欲望，狂热，极大的热情
+> 8 He had a mania for fast cars.
 
 ###Frenetic
+adj. 狂乱的，发狂似的
+> * a scene of frenetic activity 疯狂活动的场面
 
 ###Quaint
+adj attractive in an unusual or old-fashioned way 古色古香的，新奇有趣的
+> * a quaint seaside village 古朴典雅的海滨村庄
 
 ###Rejuvenate
+v [VN] 使年轻，使更有活力
 
 ###Anesthetic
+n. 麻醉药，麻醉剂
+> * How long will I **be under the anesthetic**?
+> * They gave him a **general anesthetic**. 全身麻醉
+> * (a) **local anesthetic** 局部麻醉
 
 ###Rebuke
+v [VN, often passive] <span style="color:blue">~ sb (for sth / for doing sth)</span> 指责，批评
+> * The company was publicly rebuked for having neglected safety procedures.
 
 ###Quota
+n 1 [C] 定额，配额，限额
+> * to introduce a strict quota on grain 严格限制谷物进口量
+
+2 [C] 定量，定额，指标
+> * I'm going home now - I've done my quota of work for the day.
+
+3 [sing.]   (政)规定票数，最低票数
+> * He was 76 votes short of the quota. 他比规定当选票数少了76票
 
 ###Circumscribe
 v. [VN] 1 [often passive] 限制，约束 (自由、权力等)
@@ -27,10 +51,20 @@ n. [U] 推动力，推进
 > * wind/steam/jet propulsion 风力/蒸汽/喷气推进
 
 ###Pronghorn
+n. 雾角
 
 ###Aquatic
+adj. [usually before noun] 
+
+1 水栖的
+> * aquatic plants/life/ecosystems 水生植物/生物/生态系统
+
+2 水中的，水的，水上的
+> * aquatic sports 水上运动
 
 ###Horticulture
+n. 园艺，园艺学
+> * a college of agriculture and horticulture.
 
 ###Rinse
 v. [VN] 1 (用清水) 冲洗，冲刷
@@ -41,8 +75,11 @@ v. [VN] 1 (用清水) 冲洗，冲刷
 2 冲掉，漂洗
 
 ###Enrage
+v [VN, usually passive] 使愤怒，激怒，触怒
 
 ###Peerless
+adj. 杰出的，出众的
+> * a peerless performance.
 
 ###Reimburse
 v. [VN] <span style="color:blue">~ sb (for sth)</span>
@@ -52,8 +89,10 @@ v. [VN] <span style="color:blue">~ sb (for sth)</span>
 
 ###Foment
 v. [VN] [formal] 挑起，激起，煽动 (事端或暴力)
+> * They accused him of fomenting political unrest. 他们指控他煽动政治动乱
 
 ###Finch
+n. (常构成复合词) 雀科小鸟 bullfinch, chaffinch, goldfinch
 
 ###Permeate
 v. [VN/V + adv./prep.]
@@ -68,36 +107,54 @@ v. [VN/V + adv./prep.]
 管理人员的不满情绪很快传染给了全体职工
 
 ###Permeable
+adj. <span style="color:blue">~ (to sth)</span>
+可渗透的，可渗入的
+> * The skin of amphibians is permeable to water. 两栖动物的皮肤是透水的
 
 ###Infiltrate
+v 1 <span style="color:blue">~ (sb) (into sth)</span> (使)悄悄进入，潜入
+> * Rebel forces were infiltrated into the country. [VN]
+> * The CIA agents successfully infiltrated into the terrorists organizations. [V]
+
+2 <span style="color:blue">~ (into) sth</span> 渗入，渗透 [V]
+> * Only a small amount of the rainwater actually infiltrates into the soil.
 
 ###Condiment
+n [usually pl.] 调味料，佐料，酱料
 
 ###Flavoring
+n [U, C] 调味品，调味香料
 
 ###Preponderance
 n. [sing.] 优势，多数，主体
 > * There is still a preponderance of male managers in the profession.
 
 ###Scavenger
+n. 拾荒者，捡破烂的人；食腐肉的动物
 
 ###Astound
+v [VN] 使震惊，使大惊 SYN : <span style="color:blue">Astonish</span>
 
 ###Pedagogy
+n. 教育法，教学法
 
 <span style="color:blue">Pedagogical</span>
 
 ###Spiny
+adj. 有刺的，多刺的
 
 ###Voltage
+n. 电压
 
 ###Weathering
+adj. (岩石的)风化
 
 ###Kinetic
 adj. [usually before noun] 运动的，运动引起的
 > * kinetic energy 动能
 
 ###Harmonica
+n. 口琴
 
 ###Gourmand
 n. (often disapproving) a person who enjoys eating and eats a large amounts of food.
@@ -108,7 +165,10 @@ adj. (only before noun)
 > * gourmet food 美味佳肴
 
 ###Appraisal
-
-###Indent
+n [C, U] 1 评价，评估，估计，估价
+> * She was honest in her appraisal of her team's chances.
 
 ###Hispanic
+adj. 西班牙的，西班牙语国家的
+
+n. 母语为西班牙语的人
