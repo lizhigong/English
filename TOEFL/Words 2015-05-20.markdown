@@ -1,45 +1,120 @@
 #Words 2015/05/20
 
 ###Dent
+v. [VN] 1 使凹陷，使产生凹痕
+> * The back of the car was badly dented in the collision.
+
+2 损害，伤害，挫伤 (信心、名誉等)
+> * It seems that nothing could dent his confidence.
+
+n. 凹痕，凹坑
+> * a large dent in the car door.
 
 ###Dental
+adj. 1 牙齿的，牙科的
+> * **dental disease/care/treatment/health**
+
+2 (辅音) 齿音的
 
 ###Elixir
+n. 圣水，灵丹妙药，长生不老药
+> * the **elixir of life/youth**
 
 ###Allegation
-n. 说法，指控
+n. <span style="color:blue">~ (of sth) (against sb) | ~ (that ...) | ~ (about sb/sth)</span>  (无证据的) 说法，指控
+> * Several newspapers **made allegations** of corruption in the city's police department.
+几家报纸生成该市警察部门腐败
+
+> * to **investigate/deny/withdraw an allegation** 调查/否认/撤回指控
 
 ###Adhesive
+n. [C, U] 黏合剂，黏着剂
 
-###Viscosity
+adj. 黏合的，粘附的，有附着力的  SYN : <span style="color:blue">sticky</span>
 
-###Tardiness
+<span style="color:blue">Adhesion</span> n. [U] 黏着(力)
 
-###Acclaimed
+###Viscous
+adj. (液体) 粘稠的， 粘滞的
+
+<span style="color:blue">Viscosity</span> n [U] 黏性，黏稠度
+
+###Acclaim
+v. [VN, usually passive] <span style="color:blue">~ sb/sth (as sth)</span>
+称誉某人/某物(为...)，给予高度评价
+> * a **highly/widely acclaimed** performance.
+> * The work was acclaimed as a masterpiece.
+
+n. [U] 称誉，高度评价
+> * **international/popular/critical acclaim** 国际上的/公众的/评论家的赞扬
 
 ###Mural
+n. 壁画
 
 ###Stationery
+adj. 1 不动的，静止的，固定的
+> * a stationary exercise bike. 固定式健身自行车
 
 ###Stagnant
 adj. 1 (空气或水)不流动而浑浊的 2 停滞的，不发展的，无变化的
+> * a stagnant economy 停滞的经济
 
-###Harshness
+###Harsh
+adj. 1 残酷的，严厉的
+> * The minister received some **harsh criticism**. 部长受到了严厉的批评
+> * We had to face up to the **harsh realities** of life sooner or later.
+
+2 (天气或生活环境) 艰苦的，恶劣的
+> * a **harsh winter/wind/climate**
+
+3 刺眼的，丑陋的
+> * harsh colors
+> * Tthe harsh lines of concrete buildings
+
+4 刺耳的，难听的
+> * a harsh voice
+
+5 粗糙的，毛糙的，刺激性强的
+> * harsh detergents 刺激性强的洗涤剂
+
+<span style="color:blue">Harshness</span> n. [U]
 
 ###Postulate
+v. [VN] 假定，假设
+> * They postulated a 600-year lifespan for a plastic container.
+
+n. 假设，假定
 
 ###Atrophy
+n. [U]  (medical) 萎缩 (figurative)
+> * The cultural life of the country sink into atrophy unless more writers and artists emerge.
+
+v. [V] 衰退，萎缩
+> * Memory can atrophy through lack of use.
+
+<span style="color:blue">atrophied</span> adj. 
+> * atrophied muscles 萎缩的肌肉
 
 ###Vertebrate
+n. 脊椎动物
 
 ###Refrigerant
+n. 制冷剂，冷冻剂
 
 ###Parapsychology
+n. 心灵学，超心理学，通灵学
 
 ###Orchid
+n. 兰花
 
 ###Orchestra
+n. 管弦乐队
 
 ###Influenza
+n. = flu 流感
 
 ###Shrivel
+v. (-ll- or -l-) <span style="color:blue">~ (sth) (up)</span>
+(使) 干枯，枯萎
+> * The leaves on the plant had shrivelled up from lack of water.
+> * The hot weather had shrivelled the grapes in every vineyard.
