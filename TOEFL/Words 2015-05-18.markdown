@@ -1,73 +1,221 @@
 # Words 2015-5-18
 
 ###Saliva
+n. 唾液
 
 ###Parasitic
+adj. 1 caused by a parasite 
+> * a **parasitic disease/infection** 寄生物诱发的疾病/感染
 
 ###Playwright
+n. 剧作家
 
 ###Satirist
+n. 讽刺作家
 
 ###Turbulence
+n. 1 [U] 骚乱，骚动，动乱 SYN : <span style="color:blue">Upheaval</span>
 
-###Molecular
+2 (空气和水) 湍流，涡流
+> * We experienced severe turbulence during the flight.
 
 ###Molecule
+n. 分子
+
+<span style="color:blue">Molecular</span> adj. [only before noun]
+> * **molecular structure/biology** 分子结构/生物学
 
 ###Pave
+v. [VN, often passive] <span style="color:blue">~ sth (with sth) </span>
+用(砖石)铺(地)
+> * a paved area near the back door.
 
-###Trainload
+<span style="color:blue">Pave the way (for sb/sth)</span> 为...创造条件
+> * This decision paved the way for changes in employment rights for women.
 
 ###Conglomerate
+n. 1 [C]  (商) 联合大公司，企业集团
+> * a media conglomerate 大众传媒联合体
+
+2 [sing.]  (formal) 合成物，聚合物，组合物
+
+3 [U]  (地理) 砾岩
+
+###Conglomeration
+n. 1 [C, usually sing.] <span style="color:blue">a ~ (of sth)</span>
+混合物，聚合物
+> * a conglomeration of buildings of different sizes and styles.
+
+2 [U] the process of forming a conglomerate or the state of being a conglomerate.
 
 ###Postdate
+v [VN] 1 把(日期)签迟，预填日期
+
+2 发生得较晚，发生在...之后
 
 ###Condenser
-
-###Topographical
+n. 1 冷凝器 2 (尤指汽车发动机内的) 电容器
 
 ###Stipend
+n. 生活津贴
+> * a summer internship with a small stipend
 
-###Larvae
+###Larva
+n. (pl. <span style="color:blue">larvae</span>) 幼虫，幼体
+
+<span style="color:blue">Larval</span> adj. [only before noun]
+> * an insect in its larval stage
 
 ###Primordial
+adj. 1 原始的，原生的
+
+2 基本的 (感觉或欲望)
+> * primordial impulses 本能的冲动
 
 ###Eradicate
+v [VN] <span style="color:blue">~ sth (from sth)</span>
+根除，消灭，杜绝 SYN : <span style="color:blue">Wipe out</span>
+
+> * We are determined to eradicate racism from our sport.
 
 ###Annihilate
+v [VN] 1 消灭，歼灭，毁灭
+> * The human race has enough weapons to annihilate itself.
+
+2 彻底击败
+> * She annihilated her opponent, who failed to win a single game.
+
+<span style="color:blue">annihilation</span> n [U]
+> * the annihilation of the whole human race.
 
 ###Belie
+v (<span style="color:blue">belies, belying, belied, belied</span>) [VN] 
+
+1 掩饰，遮掩，使...给人以假象
+> * Her energy and youthful good looks belie her 65 years. 
+
+2 显示(某事)不正确，证明错误
+> * Government claims that there is no poverty are belied by the number of homeless people on the streets.
 
 ###Spinach
+n. [U] 菠菜
 
-###Demolition
+###Demolish
+v [VN] 1 拆毁，拆除 (建筑)
+> * The factory is due to be demolished next year.
 
-###Juxtaposition
+2 (意外) 毁坏，破坏
+> * The car had skidded across the road and demolished part of the wall.
+
+3 推翻，驳倒 (观点或理论)
+> * A recent book has demolished this theory.
+
+4 轻易而彻底地打败
+> * They demolished New Zealand 22-6 in the final. 大败新西兰队
+
+<span style="color:blue">Demolition</span> n. [U, C]
+> * His speech did a very effective **demolition job** on the government's proposals.
+他的发言非常成功地驳倒了政府的提案。
+
+###Juxtapose
+v [VN, usually passive] <span style="color:blue">~ A and/with B</span>
+把...并置，把...并列
+> * In the exhibition, abstract paintings are juxtaposed with shocking photographs.
+
+<span style="color:blue">Juxtaposition</span> n [U, C]
+> * the juxtaposition of realistic and surreal situations in the novel.
 
 ###Abut
+v (-tt-) [VN/V] <span style="color:blue">~ (on/onto) sth</span> (土地或建筑)毗邻, 紧靠
+> * His land abuts onto a road. 
 
 ###Infest
+v [VN, usually passive]  (尤指昆虫或老鼠等) 大量滋生,大批出没
+> * shark-infested water
+> * The kitchen was infested with ants. 厨房里到处都是蚂蚁
 
 ###Cram
+v (-mm-) 1 <span style="color:blue">~ (sth) into/onto sth | ~ (sth) in</span>
+把...塞进;挤满;塞满
+> * He crammed eight people into his car.
+> * I could never cram in all that she does in a day. 我可做不了她在一天之内做的事情
 
 ###Congenital
+adj. 1 (疾病或不良的体格状况) 先天的,天生的
+> * congenital abnormalities 先天畸形
+
+2 生性的,生就的 [only before noun]
+> * a congenital inability to tell the truth.
+> * a congenital liar 生性好说谎的人
 
 ###Yelp
+v. 尖叫
 
 ###Erode
+v. [often passive] <span style="color:blue">~ (sth) (away)</span>
+
+1 侵蚀,风化
+> * The cliff face has been steadily eroded by the sea. 
+
+2 逐渐毁坏,削弱,损害
+> * Her confidence has been slowly eroded by repeated failure.
+
+<span style="color:blue">Erosion</span> n [U]
+> * the erosion of the coastline by the sea.
 
 ###Cumbersome
+adj. 1 大而笨重的, 难以携带的
+> * cumbersome machinery
+
+2 缓慢复杂的
+> * cumbersome legal procedures.
+
+3 (词语)冗长的,累赘的,复杂的
+> * The organization changed its cumbersome title to something easier to remember.
 
 ###Angular
+adj. 1 (人) 瘦骨嶙峋的,骨瘦如柴的
+> * an angular face
+> * a tall angular woman
+
+2 有棱角的,有尖角的
+> * a design of large angular shapes
 
 ###Clinical
+adj. 1 [only before noun] 临床的,临床诊断的
+> * clinical research
+
+2 (disapproving) 冷淡的,无动于衷的
+> * He watched her suffering with clinical detachment (超脱,冷漠). 
+
+3 (房间建筑等) 简陋的,无装饰的
 
 ###Bilateral
+adj. 1 双边的
+> * **bilateral relations/agreements/trade/talks** 双边关系/协议/贸易/谈判
+
+2 两侧的,对称的
 
 ###Subversive
+adj. 颠覆性的,暗中起破坏作用的
+
+n. 破坏分子
 
 ###Disillusion
+v [VN] 使醒悟,使不再抱幻想,使理想破灭
+> * I hate to disillusion you, but not everyone is as honest as you.
 
 ###Flounder
+v. 1 [V] 支吾,不知所措
+> * His abrupt change of subject left her floundering helplessly.
 
-###Floodplain
+2 [V] 困难重重,艰苦挣扎
+> * At that time the industry was floundering.
+
+3 [V, usually + adv./prep.]  (在水中,泥中) 挣扎
+> * She was floundering around in the deep end of the swimming pool.
+
+n. 偏口鱼
+
+###Flood plain
+n. 洪泛区, 涝原

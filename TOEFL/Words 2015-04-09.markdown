@@ -28,6 +28,10 @@ v. 减轻，缓和
 
 ###Topography
 n. 地形，地貌，地形学
+> * a map showing the topography of the island
+
+<span style="color:blue">Topographical</span> adj. 
+> * a topographical map/feature 地形图；地貌
 
 ###Insurmountable
 adj. （困难，问题等）无法克服的，不可逾越的，难以解决的 SYN:<span style="color:blue">Insuperable</span>
