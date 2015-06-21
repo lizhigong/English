@@ -1,56 +1,90 @@
 # Words 2014/01/15
 
-标签（空格分隔）： TOFEL English
+###consume [usage]
 
----
+###supplement [esoteric meaning]
 
-consume [usage]
+###gulf
 
-supplement [esoteric meaning]
+###prestige
 
-gulf
+###comparative
 
-prestige
+###comparable
 
-comparative
+###expenditure
 
-comparable
+###tactics
 
-expenditure
+###Specimen
+n. 1 样本，标本
+> * Astronauts have brought back specimens of rock from the moon.
 
-tactics
+2 (尤指动植物的)单一实例
+> * The aquarium has some interesting specimens of unusual tropical fish.
 
-specimen
+###stimulus
 
-stimuli
+###overtime
 
-stimulus
+###Projection
+n. 1 [C] 预测，推断，设想
+> * to make **forward/backward projections** of population figures.
 
-overtime
+2 [U, C] 投影，放映，投射
+> * laser projection.
 
-projection [esoteric meaning]
+3 ......
 
-algae
-retreat
-crumble
-scramble
-undertake
-heed [recorded?]
+###Algae
+n. 海藻 [U, pl.]
 
-aversion
-seedling
-appreciable
-commodity
-shipment
-accordion
-terminus
-perimeter [pronunciation]
-bouquet [pronunciation]
-consternation
+###Retreat
+v. 1 [V] 退却，撤退
+> * The army was forced to retreat after suffering heavy losses.
+
+2 [V] 离开，离去，退后
+> * The flood water slowly retreated.
+
+3 [V + adv./prep.] 改变主意，退缩
+> * The government had retreated from its pledge to reduce class sizes.
+
+4 [V, usually +adv./prep.] 隐退，逃避，躲避
+> * Bored with the conversation, she retreated to her bedroom.
+
+5 [VN] 跌价
+> * Share prices retreated 45p to 538p. 
+
+###crumble
+###scramble
+###undertake
+###Heed 
+v. [VN] 留心，注意，听从
+n. [U] <span style="color:blue">give/pay heed (to sb/sth) | take heed (of sb/sth) </span>
+留心，注意，听从
+
+###aversion
+###seedling
+###appreciable
+###commodity
+###shipment
+###accordion
+###terminus
+###perimeter [pronunciation]
+###bouquet [pronunciation]
+###Consternation
+n [U]  (formal) 惊愕，惊恐 a worried sad feeling after you have received an unpleasant feeling
+> * The announcement of her retirement caused consternation among tennis fans.
+
 quail [meanings]
-provincialism
-n. stalgia
-typify
+###Provincialism
+n. [U]  (disapproving)
+胸襟狭隘，排外主义
+
+###Nostalgia
+n. 
+
+###typify
 
 ###Bolster
 v. <span style="color:blue">~ sth (up)</span> 改善，加强
@@ -65,32 +99,49 @@ adj. 巨大的，庞大的
 
 
 ###congenial
-persevere
-epock
-spontaneous(ly)
-slumber
-drowsy
-lethargic
+###persevere
+###Epoch
+n. 时代，纪元，时期
 
-strip
-stripe
+###spontaneous(ly)
+###slumber
+###drowsy
 
-arduous
-impediment
-clog
-obscure
-obstruct
+###lethargy
+n. [U] 冷漠，无精打采，没有热情 
 
-suspend
-suspense
+<span style="color:blue">lethargic</span> adj. 
+> * The weather made her lethargic.
 
-shingle
+###strip
+###stripe
 
-prodigious
-prodigy
+###arduous
+###impediment
+###clog
+v. [often passive]  (-gg-) <span style="color:blue">~ (up) (with sth) | ~ sth (up) (with sth)</span>
+阻塞，拥堵
+> * The narrow street was clogged with traffic.
+> * Tears clogged her throat.
 
-stunt
+###obscure
+###obstruct
 
+###suspend
+###suspense
+n. [U] 悬念，提心吊胆
+> * Don't **keep us in suspense**. Tell us what happened.
 
+###Shingle
+n. 1 [U] 卵石滩
 
+2 木瓦，屋顶板
 
+3 招牌
+
+###prodigious
+adj. 巨大的，伟大的 SYN: <span style="color:blue">Colossal, Enormous</span>
+
+###prodigy
+
+###stunt
