@@ -1,9 +1,5 @@
 # Words 2014/01/19
 
-标签（空格分隔）： English TOFEL
-
----
-
 induce [recorded?]
 incisive / incise
 afflict / affliction
@@ -13,12 +9,32 @@ adj. 1 [usually before noun] 棘手的，麻烦的
 
 2 多刺的，有刺的
 
-bison
-snap [multiple meanings]
-steak [pronunciation]
-mend / amend
-ally allies [pronunciation]
-alloy
+###bison
+###snap [multiple meanings]
+###steak [pronunciation]
+###Mend
+v 1 [VN] 修理，修补
+> * Could you mend my bike for me?
+
+2 [VN] 缝补，织补
+> * He mended shoes for a living.
+
+3 [VN] 弥合 (分歧)； 解决 (争端)
+> * They tried to mend their differences.
+
+4 [V]  (骨折后) 痊愈
+
+<span style="color:blue">mend (your) fences (with sb)</span> 解决纷争，消除隔阂
+
+<span style="color:blue">mend your ways</span> 改过自新，改邪归正
+
+###Amend
+v [VN] 修正，修订 (法律文件、声明等)
+> * He asked to see the amended version.
+
+###ally allies [pronunciation]
+
+###alloy
 
 ###Foster
 v. 1 促进，鼓励，培养 =encourage, promote
@@ -41,7 +57,7 @@ adj. 1 [only before noun] 完全的，彻底的，绝对的
 > * an outright ban/rejection/victory 完全禁止；断然拒绝；彻底胜利
 
 2 公开的，直率的，直截了当的
-> * There was outright oppostion to the plan. 该计划遭到公开反对
+> * There was outright opposition to the plan. 该计划遭到公开反对
 
 ###Repertory (repository)
 n. 剧目

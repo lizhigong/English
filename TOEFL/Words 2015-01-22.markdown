@@ -1,43 +1,64 @@
 # Words 2014/01/22
 
-标签（空格分隔）： English TOFEL
+###transmute
+###transition
+###urbane
 
----
+###orchard
+n. 果园
 
-transmute
-transistion
+###Junction
+n. 1 交岔路口，汇合处，枢纽站
+> * Come off the motorway at junction 6.
 
-urbane
+2 (线缆的)主接点, (河流的) 汇合处
+> * a telephone junction box. 电话分线盒
 
--- new --
-orchard
+###Juncture
+n. 特定时刻，关头
+> * **At this juncture**, I would like to make an important announcement.
 
-junction
-juncture
+###Famine
+n. 饥荒
+> * to raise money for **famine relief**.
 
-famine
-sanction
-plunge
-verdict
-plumage
-lumbering [multiple meanings]
-gull [multiple meanings]
-unwieldy
-compel
-brim [All the beer glasses were full to the brim.]
-perpetuate
-pulp
-impulse
-compound
-mingle
-gibe
-seaman / seamen
-maritime
-manifestation
-overcast
-wagon
-charter
+###Sanction
+n. 
 
+###plunge
 
+###verdict
+n. 1 裁定,裁决,裁断
+> * Has the jury **reached a verdict**? 陪审团作出裁定了吗
 
+2 (认真考虑或检验后的) 决定,结论,意见 <span style="color:blue">~ (on sth/sb)</span>
+> * The coroner **recorded a verdict** of accidental death. 验尸官作出了意外死亡的结论
+> * The panel will **give their verdict** on the latest video releases.
+> * Well, what's your verdict? 那么,你有何意见呢?
+
+###Plumage
+n. [U]  (鸟的)全身羽毛
+
+###lumbering [multiple meanings]
+
+###gull
+n. 海鸥
+
+###unwieldy
+###compel
+###brim [All the beer glasses were full to the brim.]
+###Perpetuate
+v. [VN, formal] 使持久化,使持续
+> * This system perpetuated itself for several centuries.
+###pulp
+###impulse
+###compound
+###mingle
+###gibe
+###seaman / seamen
+###maritime
+###manifestation
+###overcast
+###wagon
+###charter
 
