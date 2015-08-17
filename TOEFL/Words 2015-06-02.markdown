@@ -53,7 +53,7 @@ adj. 1 (物质) 发荧光的
 ###Renovate
 v. [VN] 修复，翻新，重新粉刷 (房屋、家具等)
 
-<span sylte="color:blue">renovation</span> n [U, C usually sing.]
+<span style="color:blue">renovation</span> n [U, C usually sing.]
 > * buildings in need of renovation
 > * There will be extensive renovations to the hospital.
 
