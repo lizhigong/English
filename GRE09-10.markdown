@@ -1,54 +1,200 @@
-###Aspersion
+###Aspersions
+n. 批评意见，非难，中伤
+> * I wouldn't want to **cast aspersions on** you honesty. 我不想批评你的诚信
+
+###Suffocating
+adj 1 使人呼吸困难的，闷的，令人窒息的 SYN: <span style="color:red"> stifling </span>
+> *  The afternoon heat was suffocating.
+
+2 压制的，束缚性的
+> * Some marriages can sometimes feel suffocating.
 
 ###Respite
+n [sing, U] <span style="color:blue"> ~ (from sth) </span>
+暂停，暂缓
+> * The drug brought a brief respite from the pain.
+> * There was no respite for the suffocating () heat. 闷热的天气没有缓解
+> * **respite care** 暂缓性照料
+
+2 短暂的延缓，喘息
+> * His creditors agreed to give him a temporarily respite.
 
 ###Exorbitant
+adj. (of a price) 过高的，高得离谱的
+> * **exorbitant costs/fares/fees/prices/rents**
+
+<span style="color:blue"> Exorbitantly </span> adv. 
+> * Prices are exorbitantly high in this shop.
 
 ###Squat
+v. <span style="color:blue"> (-tt-) </span>
+1 蹲坐，蹲
+
+2 偷住，擅自占用 [V]
+> * They ended up squatting in the empty houses on Oxford Road. 
+
+adj. 矮而宽的，矮胖的
+> * a squat tower 矮而粗的塔
+
+###Condescend
+v 1 (often disapproving) 屈尊，俯就
+> * We had to wait almost an hour before he condescended to see us.
+
+2 <span style="color:blue"> ~ to sb </span> (对某人) 表现出优越感
+> * When giving a talk, be careful not to condescend to your audience.
+
+<span style="color:blue"> Condescension </span> n. [U]
+> * Her smile was a mixture of pity and condescension.
 
 ###Condescending
+adj. 表现出优越感的，居高临下的
+> * He has a condescending attitude towards women.
 
 ###Warp
+v. 1 (使)扭曲，变形，弯曲 [V/VN]
+> * The window frames had begun to warp
+
+2 [VN] 使(行为等)不合情理，使乖戾
+> * His judgment was warped by prejudice.
+
+n. [sing.]  (织布机上的) 经线，经纱
 
 ###Foil
+n. 1 箔
+> * aluminum foil 铝箔
+
+2 <span style="color:blue"> ~ (for sb/sth) </span>陪衬物
+> * The pale walls provide a perfect foil for the furniture.
+
+v. 挫败，阻止，制止 SYN: <span style="color:red"> thwart </span>
+> * to **foil a plan/crime/plot** 挫败计划/犯罪/阴谋
+> * They were foiled in their attempt to smuggle the paintings.
 
 ###Threadbare
+adj. 1 穿旧的，磨破的
+> * a threadbare carpet 磨破了的地毯
+
+2 (论点，借口等) 老一套的，陈腐的
 
 ###Jot
+v <span style="color:blue"> (-tt-) </span>
+
+<span style="color:blue"> Jot sth <-> down</span> 草草记下，匆匆记下
+> * I'll just jot down the address for you.
+
+n. 一点（不），丝毫（不）
+> * There's not a jot of truth in what he says. 他说的没有一点儿实话
 
 ###Doze
+v. [V] 打瞌睡，小睡
+<span style="color:blue"> doze off </span> (尤指在日间) 打瞌睡，打盹儿
+> * She dozed off in front of the fire.
+
+n. [sing.] 瞌睡，小睡
+> * I had a doze on the train.
 
 ###Leaven
+n. [U] 发酵剂，酵母，面肥
+> * (figurative) A few jokes add leaven to a boring speech.
+
+v. [VN]  [often passive] 使有趣，使更令人愉快
+> * Her speech leavened with a touch of humor.
 
 ###Flatter
+v. 1 [VN] 奉承，讨好，谄媚
+> * Are you trying to flatter me?
+
+2 <span style="color:blue"> ~ yourself </span> 自命不凡 [VN]
+> * 'How will you manage without me?' 'Don't flatter yourself'
+
+3 [VN] 使显得更漂亮，使胜过本人
+> *  That color doesn't flatter many people. 那种颜色很多人都不适合
+> *  The scoreline flattered England. 英格兰队在积分榜上的位置大大超过了其实力
 
 ###Fraudulent
+adj. 欺骗的，欺诈的
+> * fraudulent advertising. 虚假广告
 
 ###Gratuitous
+adj. 无正当理由的，无谓的 SYN: <span style="color:red"> unnecessary </span>
+> * gratuitous violence on television. 电视节目里的无谓的暴力镜头
 
 ###Stealth
+n [U] 偷偷摸摸，秘密行动
+> *  The government was accused of trying to introduce the tax **by stealth**.
+
+adj. [only before noun] 隐形的
+> * a stealth bomber 隐形轰炸机
 
 ###Lank
+adj. (毛发) 平直而无光泽的
 
 ###Hovel
+n. (disapproving) 肮脏而简陋的住所
 
 ###Timorous
+adj. 羞怯的，胆怯的 SYN: <span style="color:red"> timid </span>
 
 ###Gloss
+n. 1 [U, sing.] 光泽，光亮
+> * paper with a high gloss on one side.
+> * The gel (发胶) gives your hair a gloss.
+
+2 用以产生光泽的物质
+> * lipgloss 唇彩
+
+3 光泽涂料，亮光漆
+> * two coats of gloss 两层亮光漆
+
+4 虚假的外表，虚饰
+> * Beneath the gloss of success was a tragic private life.
+
+5 <span style="color:blue"> ~ (on sth) </span> 精彩的解释或阐述
+> * The director puts a Hollywood gloss on the civil war. ……好莱坞式的精彩阐述
+
+6 <span style="color:blue"> ~ (on sth) </span> 注释，评注
 
 ###Erratic
+adj. 不规则的，不确定的，不可靠的
+> * The electric supply here is quite erratic
+
+n. 漂砾，漂石
 
 ###Conductive
+adj. 导电的
 
 ###Knack
+n. 1 <span style="color:blue"> ~ (of/for sth) | ~ (of/for doing sth)</span>
+技能，本领
+> * It's easy, once you've got the knack.
+> * He's got the real knack for making money.
 
 ###Dais
+n. (尤指房间一端的)讲台，高台
 
 ###Drab
+adj. 单调乏味的，无光彩的，无生气的
+> * a cold drab little office.
 
 ###Ostentatious
+adj. 1 (disapproving) 铺张的，浮华的 SYN: <span style="color:red"> Showy </span>
 
-###Antithetical
+2 (disapproving) 炫耀的，卖弄的
 
-###Jaded
+3 (举动) 夸张的，招摇的
+> * He gave an ostentatious yawn. 他张扬地打了个哈欠
+
+###Antithesis
+(pl. <span style="color:blue"> antitheses </span>)
+
+1 对立(面), 对照
+> * Students finishing their education at 16 is the **very antithesis** of what society needs.
+16岁停止学业的学生并非社会所需
+
+2 对比，对照
+> * There is an antithesis between the needs of the state and the needs of the people.
+
+##Jaded
+adj. 精疲力竭的，厌倦的
+> * I felt terribly jaded after working all weekend.
 
